@@ -1,0 +1,20 @@
+{
+  "python": "3.13.15",
+  "packages": {
+    "torch": "2.11.0+cu130",
+    "transformers": "5.20.1",
+    "peft": "0.21.2",
+    "accelerate": "1.15.0",
+    "Pillow": "11.3.0",
+    "numpy": "2.1.3",
+    "gdown": "5.2.2",
+    "huggingface-hub": "1.33.0"
+  },
+  "process_id": 12964,
+  "parent_process_id": 873,
+  "cuda": "13.0",
+  "gpu": "Tesla T4",
+  "gpu_total_bytes": 15637086208,
+  "latency_protocol": "batch size 1, greedy generation, one warmup, CUDA synchronize; processor+generation included; image rendering, disk IO and separately timed canonical-digit diagnostic excluded",
+  "restricted_diagnostic": "candidate digit logits after canonical assistant whitespace; fixed dummy digit used only to locate its causally preceding position"
+}

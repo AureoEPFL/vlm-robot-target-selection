@@ -1,0 +1,7 @@
+evaluate original: 25/128
+evaluate original: 50/128
+evaluate original: 75/128
+evaluate original: 100/128
+evaluate original: 125/128
+{"n": 128, "images": 128, "correct": 53, "accuracy": 0.4140625, "invalid_rate": 0.0, "random_expected_accuracy": 0.2, "wilson_95": [0.33245150577514415, 0.5006814085843652], "image_bootstrap_95": [0.328125, 0.5], "latency_mean_s": 0.33972226674218753, "latency_median_s": 0.336985329999834, "latency_p95_s": 0.3623479210000369, "restricted_next_token_accuracy": 0.2734375, "peak_gpu_allocated_bytes": 1079240192, "peak_gpu_reserved_bytes": 1117782016, "evaluation_seconds": 45.270962115999964}
+RELOAD_VERIFIED {"new_process": true, "examples": 128, "exact_output_mismatches": [], "passed": true}

@@ -1,0 +1,15 @@
+{
+  "validation_scenes": [
+    "shelf"
+  ],
+  "train_references_removed_for_test_pixel_overlap": [],
+  "sampling": "one random reference per sampled image",
+  "selection_seed": 42,
+  "scene_limitation": "scene is a support-surface category, not a physical capture/session identifier. Train/validation categories are disjoint; physical train/test independence cannot be proven from released metadata.",
+  "selected_counts": {
+    "train": 32,
+    "val": 8,
+    "testA": 8,
+    "testB": 8
+  }
+}

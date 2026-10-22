@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "robot-target-selection"
+version = "0.1.0"
+description = "Reproducible LoRA adaptation for language-guided robot target selection"
+requires-python = ">=3.10"
+dependencies = ["numpy", "Pillow", "requests", "matplotlib", "tqdm"]
+
+[project.scripts]
+robot-target = "robot_target.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

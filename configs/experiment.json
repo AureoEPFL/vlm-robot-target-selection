@@ -1,0 +1,23 @@
+{
+  "mode": "experiment",
+  "model_id": "HuggingFaceTB/SmolVLM-500M-Instruct",
+  "model_revision": "a7da5b986cb59b408707209984f360a5f4ad7e47",
+  "seed": 42,
+  "data_seed": 42,
+  "eval_seed": 42,
+  "validation_scenes": ["shelf"],
+  "train_limit": 2000,
+  "val_limit": 128,
+  "test_limit": 200,
+  "max_candidates": 8,
+  "max_steps": 250,
+  "batch_size": 8,
+  "gradient_accumulation": 1,
+  "learning_rate": 0.0002,
+  "lora_rank": 8,
+  "lora_alpha": 16,
+  "lora_dropout": 0.05,
+  "image_size": 512,
+  "eval_every": 125,
+  "max_new_tokens": 6
+}

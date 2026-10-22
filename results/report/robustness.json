@@ -1,0 +1,170 @@
+[
+  {
+    "split": "testA",
+    "variant": "paraphrase",
+    "n": 200,
+    "images": 200,
+    "correct": 65,
+    "accuracy": 0.325,
+    "invalid_rate": 0.0,
+    "random_expected_accuracy": 0.22683333333333333,
+    "wilson_95": [
+      0.2639157153923429,
+      0.3926801488397004
+    ],
+    "image_bootstrap_95": [
+      0.26,
+      0.385
+    ],
+    "latency_mean_s": 0.3373340400450093,
+    "latency_median_s": 0.33503776299949095,
+    "latency_p95_s": 0.3607231129999491,
+    "restricted_next_token_accuracy": 0.34,
+    "same_valid_object_rate": 0.85,
+    "paired_accuracy_difference": 0.015,
+    "paired_bootstrap_95": [
+      -0.025,
+      0.055
+    ]
+  },
+  {
+    "split": "testA",
+    "variant": "permutation",
+    "n": 200,
+    "images": 200,
+    "correct": 71,
+    "accuracy": 0.355,
+    "invalid_rate": 0.0,
+    "random_expected_accuracy": 0.22683333333333333,
+    "wilson_95": [
+      0.2919862754043116,
+      0.42347886924509565
+    ],
+    "image_bootstrap_95": [
+      0.29,
+      0.42
+    ],
+    "latency_mean_s": 0.33888327714499383,
+    "latency_median_s": 0.33538492400020914,
+    "latency_p95_s": 0.3605137519998607,
+    "restricted_next_token_accuracy": 0.355,
+    "same_valid_object_rate": 0.46,
+    "paired_accuracy_difference": 0.045,
+    "paired_bootstrap_95": [
+      -0.035,
+      0.12
+    ]
+  },
+  {
+    "split": "testA",
+    "variant": "visual",
+    "n": 200,
+    "images": 200,
+    "correct": 64,
+    "accuracy": 0.32,
+    "invalid_rate": 0.0,
+    "random_expected_accuracy": 0.22683333333333333,
+    "wilson_95": [
+      0.25926533315468053,
+      0.38751898434113546
+    ],
+    "image_bootstrap_95": [
+      0.255,
+      0.385
+    ],
+    "latency_mean_s": 0.3395340827499808,
+    "latency_median_s": 0.33634401100016476,
+    "latency_p95_s": 0.36519497700010106,
+    "restricted_next_token_accuracy": 0.31,
+    "same_valid_object_rate": 0.82,
+    "paired_accuracy_difference": 0.01,
+    "paired_bootstrap_95": [
+      -0.035,
+      0.055
+    ]
+  },
+  {
+    "split": "testB",
+    "variant": "paraphrase",
+    "n": 200,
+    "images": 200,
+    "correct": 54,
+    "accuracy": 0.27,
+    "invalid_rate": 0.0,
+    "random_expected_accuracy": 0.20475000000000002,
+    "wilson_95": [
+      0.21323449814685846,
+      0.33543435198668425
+    ],
+    "image_bootstrap_95": [
+      0.21,
+      0.33
+    ],
+    "latency_mean_s": 0.3456651894049469,
+    "latency_median_s": 0.3398786570005541,
+    "latency_p95_s": 0.3818311980003273,
+    "restricted_next_token_accuracy": 0.275,
+    "same_valid_object_rate": 0.84,
+    "paired_accuracy_difference": -0.005,
+    "paired_bootstrap_95": [
+      -0.035,
+      0.025
+    ]
+  },
+  {
+    "split": "testB",
+    "variant": "permutation",
+    "n": 200,
+    "images": 200,
+    "correct": 52,
+    "accuracy": 0.26,
+    "invalid_rate": 0.0,
+    "random_expected_accuracy": 0.20475000000000002,
+    "wilson_95": [
+      0.20413830063574687,
+      0.32490745602534116
+    ],
+    "image_bootstrap_95": [
+      0.205,
+      0.325
+    ],
+    "latency_mean_s": 0.35371430826499817,
+    "latency_median_s": 0.35095069399994827,
+    "latency_p95_s": 0.38845596099963586,
+    "restricted_next_token_accuracy": 0.26,
+    "same_valid_object_rate": 0.39,
+    "paired_accuracy_difference": -0.015,
+    "paired_bootstrap_95": [
+      -0.09,
+      0.065
+    ]
+  },
+  {
+    "split": "testB",
+    "variant": "visual",
+    "n": 200,
+    "images": 200,
+    "correct": 50,
+    "accuracy": 0.25,
+    "invalid_rate": 0.0,
+    "random_expected_accuracy": 0.20475000000000002,
+    "wilson_95": [
+      0.19508168006817497,
+      0.31434098312045833
+    ],
+    "image_bootstrap_95": [
+      0.19,
+      0.31
+    ],
+    "latency_mean_s": 0.34010862474000075,
+    "latency_median_s": 0.3379512829997111,
+    "latency_p95_s": 0.3602393840001241,
+    "restricted_next_token_accuracy": 0.25,
+    "same_valid_object_rate": 0.78,
+    "paired_accuracy_difference": -0.025,
+    "paired_bootstrap_95": [
+      -0.07,
+      0.02
+    ]
+  }
+]

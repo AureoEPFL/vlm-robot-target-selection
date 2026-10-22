@@ -1,0 +1,5 @@
+{
+  "base_model": "HuggingFaceTB/SmolVLM-500M-Instruct",
+  "base_revision": "a7da5b986cb59b408707209984f360a5f4ad7e47",
+  "adapter_sha256": null
+}

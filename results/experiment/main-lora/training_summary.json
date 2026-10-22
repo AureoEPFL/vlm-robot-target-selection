@@ -1,0 +1,8 @@
+{
+  "best_validation_accuracy": 0.4140625,
+  "selected_step": 250,
+  "training_seconds_excluding_validation": 604.0890864840021,
+  "wall_seconds_including_loading_excluded": 698.324670062,
+  "peak_training_gpu_allocated_bytes": 3174146048,
+  "optimizer_steps": 250
+}

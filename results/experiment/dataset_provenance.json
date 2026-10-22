@@ -1,0 +1,11 @@
+{
+  "source": "https://github.com/luyh20/VL-Grasp",
+  "drive_id": "1pdGF1HaU_UiKfh5Z618hy3nRjVbq_VuW",
+  "archive_bytes": 6084791269,
+  "archive_sha256": "26cbcb6b5a1b80965d68a59b20cd1fcbd0726f909199119245cdeb1b2f67394e",
+  "annotation_sha256": {
+    "train": "89294ca0e4b8e738290ba7f168a8e2b322d32a16386b1e1231a41bc7d348ded4",
+    "testA": "2ee38b1aaa837e03a7618b3f26c50aad24d7698e6ee950e8b786f3e78380156d",
+    "testB": "c351ef8302b27b4e0f7715ebdb401479ee55ce092f4b5d34caf8bb5ac2e034b8"
+  }
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "split": "testA",
+    "training_seed": 42,
+    "n": 200,
+    "images": 200,
+    "correct": 62,
+    "accuracy": 0.31,
+    "invalid_rate": 0.0,
+    "random_expected_accuracy": 0.22683333333333333,
+    "wilson_95": [
+      0.2499894483607809,
+      0.37717177566258037
+    ],
+    "image_bootstrap_95": [
+      0.245,
+      0.38
+    ],
+    "latency_mean_s": 0.3394286137250128,
+    "latency_median_s": 0.3366667260002032,
+    "latency_p95_s": 0.36182974300027126,
+    "restricted_next_token_accuracy": 0.3
+  },
+  {
+    "split": "testA",
+    "training_seed": 43,
+    "n": 200,
+    "images": 200,
+    "correct": 60,
+    "accuracy": 0.3,
+    "invalid_rate": 0.0,
+    "random_expected_accuracy": 0.22683333333333333,
+    "wilson_95": [
+      0.24074744682371402,
+      0.36679068372719265
+    ],
+    "image_bootstrap_95": [
+      0.24,
+      0.37
+    ],
+    "latency_mean_s": 0.34371497846498644,
+    "latency_median_s": 0.3417138299992075,
+    "latency_p95_s": 0.372172488000615,
+    "restricted_next_token_accuracy": 0.29
+  },
+  {
+    "split": "testB",
+    "training_seed": 42,
+    "n": 200,
+    "images": 200,
+    "correct": 55,
+    "accuracy": 0.275,
+    "invalid_rate": 0.0,
+    "random_expected_accuracy": 0.20475000000000002,
+    "wilson_95": [
+      0.21779700329307355,
+      0.34068339357669647
+    ],
+    "image_bootstrap_95": [
+      0.215,
+      0.335
+    ],
+    "latency_mean_s": 0.3366980607049777,
+    "latency_median_s": 0.3342876579999938,
+    "latency_p95_s": 0.358228761999726,
+    "restricted_next_token_accuracy": 0.275
+  },
+  {
+    "split": "testB",
+    "training_seed": 43,
+    "n": 200,
+    "images": 200,
+    "correct": 50,
+    "accuracy": 0.25,
+    "invalid_rate": 0.0,
+    "random_expected_accuracy": 0.20475000000000002,
+    "wilson_95": [
+      0.19508168006817497,
+      0.31434098312045833
+    ],
+    "image_bootstrap_95": [
+      0.19,
+      0.315
+    ],
+    "latency_mean_s": 0.3479206772400175,
+    "latency_median_s": 0.3456395640005212,
+    "latency_p95_s": 0.3715169839997543,
+    "restricted_next_token_accuracy": 0.25
+  }
+]

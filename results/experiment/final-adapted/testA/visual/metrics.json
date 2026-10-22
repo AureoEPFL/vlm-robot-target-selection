@@ -1,0 +1,293 @@
+{
+  "n": 200,
+  "images": 200,
+  "correct": 64,
+  "accuracy": 0.32,
+  "invalid_rate": 0.0,
+  "random_expected_accuracy": 0.22683333333333333,
+  "wilson_95": [
+    0.25926533315468053,
+    0.38751898434113546
+  ],
+  "image_bootstrap_95": [
+    0.255,
+    0.385
+  ],
+  "latency_mean_s": 0.3395340827499808,
+  "latency_median_s": 0.33634401100016476,
+  "latency_p95_s": 0.36519497700010106,
+  "restricted_next_token_accuracy": 0.31,
+  "peak_gpu_allocated_bytes": 1089555968,
+  "peak_gpu_reserved_bytes": 1119879168,
+  "evaluation_seconds": 135.63595308700042,
+  "strata": {
+    "scene": {
+      "chair": {
+        "n": 22,
+        "images": 22,
+        "correct": 9,
+        "accuracy": 0.4090909090909091,
+        "invalid_rate": 0.0,
+        "random_expected_accuracy": 0.2,
+        "wilson_95": [
+          0.2325581619647187,
+          0.6126518152368488
+        ],
+        "image_bootstrap_95": [
+          0.22727272727272727,
+          0.5909090909090909
+        ],
+        "latency_mean_s": 0.3411522698636004,
+        "latency_median_s": 0.33634401100016476,
+        "latency_p95_s": 0.37178877199949056,
+        "restricted_next_token_accuracy": 0.4090909090909091
+      },
+      "shelf": {
+        "n": 37,
+        "images": 37,
+        "correct": 17,
+        "accuracy": 0.4594594594594595,
+        "invalid_rate": 0.0,
+        "random_expected_accuracy": 0.22162162162162166,
+        "wilson_95": [
+          0.3103856980437303,
+          0.6161595310782052
+        ],
+        "image_bootstrap_95": [
+          0.2972972972972973,
+          0.5945945945945946
+        ],
+        "latency_mean_s": 0.34348807937839093,
+        "latency_median_s": 0.3386598189999859,
+        "latency_p95_s": 0.38515078500040545,
+        "restricted_next_token_accuracy": 0.40540540540540543
+      },
+      "sofa": {
+        "n": 6,
+        "images": 6,
+        "correct": 1,
+        "accuracy": 0.16666666666666666,
+        "invalid_rate": 0.0,
+        "random_expected_accuracy": 0.20000000000000004,
+        "wilson_95": [
+          0.030053369748306635,
+          0.5635028221864702
+        ],
+        "image_bootstrap_95": [
+          0.0,
+          0.5
+        ],
+        "latency_mean_s": 0.3356867446666456,
+        "latency_median_s": 0.3413381479999771,
+        "latency_p95_s": 0.34388262699985717,
+        "restricted_next_token_accuracy": 0.16666666666666666
+      },
+      "table": {
+        "n": 93,
+        "images": 93,
+        "correct": 25,
+        "accuracy": 0.26881720430107525,
+        "invalid_rate": 0.0,
+        "random_expected_accuracy": 0.22168458781362008,
+        "wilson_95": [
+          0.18921308125080688,
+          0.3667622156556944
+        ],
+        "image_bootstrap_95": [
+          0.1935483870967742,
+          0.3763440860215054
+        ],
+        "latency_mean_s": 0.3376887482365262,
+        "latency_median_s": 0.3356108060002043,
+        "latency_p95_s": 0.3543618469998364,
+        "restricted_next_token_accuracy": 0.26881720430107525
+      },
+      "wash table": {
+        "n": 42,
+        "images": 42,
+        "correct": 12,
+        "accuracy": 0.2857142857142857,
+        "invalid_rate": 0.0,
+        "random_expected_accuracy": 0.2607142857142857,
+        "wilson_95": [
+          0.17167024626049074,
+          0.4356720926819536
+        ],
+        "image_bootstrap_95": [
+          0.16666666666666666,
+          0.42857142857142855
+        ],
+        "latency_mean_s": 0.33983889576189713,
+        "latency_median_s": 0.33664623899994695,
+        "latency_p95_s": 0.35902012199994715,
+        "restricted_next_token_accuracy": 0.2857142857142857
+      }
+    },
+    "n_candidates": {
+      "2": {
+        "n": 1,
+        "images": 1,
+        "correct": 0,
+        "accuracy": 0.0,
+        "invalid_rate": 0.0,
+        "random_expected_accuracy": 0.5,
+        "wilson_95": [
+          0.0,
+          0.7934506856227626
+        ],
+        "image_bootstrap_95": [
+          0.0,
+          0.0
+        ],
+        "latency_mean_s": 0.3339493529997526,
+        "latency_median_s": 0.3339493529997526,
+        "latency_p95_s": 0.3339493529997526,
+        "restricted_next_token_accuracy": 0.0
+      },
+      "3": {
+        "n": 20,
+        "images": 20,
+        "correct": 8,
+        "accuracy": 0.4,
+        "invalid_rate": 0.0,
+        "random_expected_accuracy": 0.3333333333333333,
+        "wilson_95": [
+          0.21880653237281705,
+          0.6134184992377469
+        ],
+        "image_bootstrap_95": [
+          0.15,
+          0.65
+        ],
+        "latency_mean_s": 0.3410545599999978,
+        "latency_median_s": 0.33816371500006426,
+        "latency_p95_s": 0.37462786500009315,
+        "restricted_next_token_accuracy": 0.4
+      },
+      "4": {
+        "n": 48,
+        "images": 48,
+        "correct": 15,
+        "accuracy": 0.3125,
+        "invalid_rate": 0.0,
+        "random_expected_accuracy": 0.25,
+        "wilson_95": [
+          0.19945683446587817,
+          0.4533307141589159
+        ],
+        "image_bootstrap_95": [
+          0.1875,
+          0.4791666666666667
+        ],
+        "latency_mean_s": 0.3386075064582883,
+        "latency_median_s": 0.3357071539999197,
+        "latency_p95_s": 0.3550542080001833,
+        "restricted_next_token_accuracy": 0.3125
+      },
+      "5": {
+        "n": 131,
+        "images": 131,
+        "correct": 41,
+        "accuracy": 0.31297709923664124,
+        "invalid_rate": 0.0,
+        "random_expected_accuracy": 0.2,
+        "wilson_95": [
+          0.2398570731731085,
+          0.39675320656913377
+        ],
+        "image_bootstrap_95": [
+          0.2366412213740458,
+          0.3969465648854962
+        ],
+        "latency_mean_s": 0.3396840892137299,
+        "latency_median_s": 0.33634401100016476,
+        "latency_p95_s": 0.36519497700010106,
+        "restricted_next_token_accuracy": 0.29770992366412213
+      }
+    },
+    "spatial": {
+      "False": {
+        "n": 124,
+        "images": 124,
+        "correct": 30,
+        "accuracy": 0.24193548387096775,
+        "invalid_rate": 0.0,
+        "random_expected_accuracy": 0.2318548387096774,
+        "wilson_95": [
+          0.1750499670451079,
+          0.32432996345330645
+        ],
+        "image_bootstrap_95": [
+          0.1774193548387097,
+          0.3225806451612903
+        ],
+        "latency_mean_s": 0.33827698658062527,
+        "latency_median_s": 0.3357071539999197,
+        "latency_p95_s": 0.3580446060000213,
+        "restricted_next_token_accuracy": 0.24193548387096775
+      },
+      "True": {
+        "n": 76,
+        "images": 76,
+        "correct": 34,
+        "accuracy": 0.4473684210526316,
+        "invalid_rate": 0.0,
+        "random_expected_accuracy": 0.218640350877193,
+        "wilson_95": [
+          0.3408065806517214,
+          0.5589948493551352
+        ],
+        "image_bootstrap_95": [
+          0.34210526315789475,
+          0.5394736842105263
+        ],
+        "latency_mean_s": 0.3415851343947189,
+        "latency_median_s": 0.33761112199999843,
+        "latency_p95_s": 0.38342891399997825,
+        "restricted_next_token_accuracy": 0.42105263157894735
+      }
+    },
+    "similar_objects": {
+      "False": {
+        "n": 46,
+        "images": 46,
+        "correct": 14,
+        "accuracy": 0.30434782608695654,
+        "invalid_rate": 0.0,
+        "random_expected_accuracy": 0.22608695652173913,
+        "wilson_95": [
+          0.1907984080276724,
+          0.4480564644840765
+        ],
+        "image_bootstrap_95": [
+          0.17391304347826086,
+          0.43478260869565216
+        ],
+        "latency_mean_s": 0.33855058930433424,
+        "latency_median_s": 0.33634401100016476,
+        "latency_p95_s": 0.3583863029998611,
+        "restricted_next_token_accuracy": 0.30434782608695654
+      },
+      "True": {
+        "n": 154,
+        "images": 154,
+        "correct": 50,
+        "accuracy": 0.3246753246753247,
+        "invalid_rate": 0.0,
+        "random_expected_accuracy": 0.22705627705627707,
+        "wilson_95": [
+          0.25576805606969,
+          0.4021165047835945
+        ],
+        "image_bootstrap_95": [
+          0.24675324675324675,
+          0.42207792207792205
+        ],
+        "latency_mean_s": 0.33982785351945966,
+        "latency_median_s": 0.3365238370001862,
+        "latency_p95_s": 0.3682331999998496,
+        "restricted_next_token_accuracy": 0.3116883116883117
+      }
+    }
+  }
+}

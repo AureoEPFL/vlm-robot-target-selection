@@ -1,0 +1,10 @@
+{
+  "example_id": "testB:3034",
+  "instruction": "could you find the light brown lion",
+  "raw_output": "3",
+  "prediction": 3,
+  "candidate_count": 4,
+  "expected": 3,
+  "matches_saved_prediction": true,
+  "scene_change_and_button_verified": true
+}

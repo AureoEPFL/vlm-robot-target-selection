@@ -1,0 +1,7810 @@
+[
+  {
+    "id": "train:4594",
+    "image_id": "train:0000927",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0000927.png",
+    "pixel_sha256": "0370346ce061fe44b8a297cee4bdaf84a9ede3f56cc13993906fa1ee469fa763",
+    "scene": "shelf",
+    "text": "could you pass me the standing facial cleanser on the bottom shelf near the left",
+    "boxes": [
+      [
+        208.0,
+        233.0,
+        299.0,
+        257.0
+      ],
+      [
+        240.0,
+        328.0,
+        282.0,
+        403.0
+      ],
+      [
+        255.0,
+        70.0,
+        355.0,
+        115.0
+      ],
+      [
+        334.0,
+        151.0,
+        373.0,
+        257.0
+      ],
+      [
+        362.0,
+        324.0,
+        402.0,
+        397.0
+      ]
+    ],
+    "target": 1,
+    "classes": [
+      [
+        "shampoo"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "mouthwash"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "facial cleanser"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:9364",
+    "image_id": "train:0001881",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001881.png",
+    "pixel_sha256": "9014dc19cb3e8e65248d7149f3c01d25c88651d3269a98e62271de8bfe5a6cd7",
+    "scene": "shelf",
+    "text": "I would like to grasp the shampoo in a cylindrical bottle on the middle shelf",
+    "boxes": [
+      [
+        256.0,
+        329.0,
+        279.0,
+        371.0
+      ],
+      [
+        293.0,
+        294.0,
+        324.0,
+        363.0
+      ],
+      [
+        307.0,
+        240.0,
+        365.0,
+        259.0
+      ],
+      [
+        311.0,
+        140.0,
+        331.0,
+        172.0
+      ],
+      [
+        357.0,
+        313.0,
+        379.0,
+        354.0
+      ]
+    ],
+    "target": 2,
+    "classes": [
+      [
+        "vitamin bottle"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "vitamin bottle"
+      ],
+      [
+        "vitamin bottle"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:5380",
+    "image_id": "train:0001084",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001084.png",
+    "pixel_sha256": "318a9ef753795830a3d483683dde893a8d07ffee5ade8dc8c7d3497290436d8d",
+    "scene": "shelf",
+    "text": "I want to get the white bottled body milk on the bottom right shelf",
+    "boxes": [
+      [
+        186.0,
+        334.0,
+        225.0,
+        417.0
+      ],
+      [
+        228.0,
+        167.0,
+        270.0,
+        262.0
+      ],
+      [
+        296.0,
+        181.0,
+        336.0,
+        268.0
+      ],
+      [
+        325.0,
+        345.0,
+        353.0,
+        434.0
+      ],
+      [
+        367.0,
+        190.0,
+        409.0,
+        274.0
+      ]
+    ],
+    "target": 3,
+    "classes": [
+      [
+        "body lotion"
+      ],
+      [
+        "mouthwash"
+      ],
+      [
+        "facial wash"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "facial wash"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:3696",
+    "image_id": "train:0000747",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0000747.png",
+    "pixel_sha256": "1882526e1351e81f37aec0e070e441c63845ff4232d2bc4e7802b06ca5e61022",
+    "scene": "shelf",
+    "text": "could you pass me the yellow striped box at the bottom",
+    "boxes": [
+      [
+        156.0,
+        243.0,
+        266.0,
+        296.0
+      ],
+      [
+        168.0,
+        349.0,
+        248.0,
+        475.0
+      ],
+      [
+        250.0,
+        414.0,
+        325.0,
+        462.0
+      ],
+      [
+        291.0,
+        186.0,
+        440.0,
+        257.0
+      ],
+      [
+        341.0,
+        376.0,
+        428.0,
+        439.0
+      ]
+    ],
+    "target": 4,
+    "classes": [
+      [
+        "toothpaste box"
+      ],
+      [
+        "book"
+      ],
+      [
+        "square box"
+      ],
+      [
+        "pill box"
+      ],
+      [
+        "square box"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:3386",
+    "image_id": "train:0000685",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0000685.png",
+    "pixel_sha256": "39d30217f38ba2caebb424ab93e9af2415acec01bd7d53049ca5cf7648121c6e",
+    "scene": "shelf",
+    "text": "bring me the white and yellow box on the middle shelf",
+    "boxes": [
+      [
+        213.0,
+        195.0,
+        287.0,
+        251.0
+      ],
+      [
+        245.0,
+        365.0,
+        302.0,
+        452.0
+      ],
+      [
+        309.0,
+        218.0,
+        379.0,
+        272.0
+      ],
+      [
+        312.0,
+        41.0,
+        466.0,
+        117.0
+      ],
+      [
+        407.0,
+        198.0,
+        469.0,
+        288.0
+      ]
+    ],
+    "target": 0,
+    "classes": [
+      [
+        "square box"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "square box"
+      ],
+      [
+        "toothpaste box"
+      ],
+      [
+        "juice"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:5467",
+    "image_id": "train:0001101",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001101.png",
+    "pixel_sha256": "220e2d8c2297918674a1ce88dfcb02f7db292b7fb7ad95e71cbdad01c2312ced",
+    "scene": "shelf",
+    "text": "could you give me the facial cleanser with a black handy pump on the middle shelf",
+    "boxes": [
+      [
+        186.0,
+        354.0,
+        231.0,
+        446.0
+      ],
+      [
+        208.0,
+        175.0,
+        250.0,
+        275.0
+      ],
+      [
+        282.0,
+        182.0,
+        322.0,
+        270.0
+      ],
+      [
+        337.0,
+        342.0,
+        362.0,
+        434.0
+      ],
+      [
+        356.0,
+        183.0,
+        397.0,
+        265.0
+      ]
+    ],
+    "target": 4,
+    "classes": [
+      [
+        "body lotion"
+      ],
+      [
+        "mouthwash"
+      ],
+      [
+        "facial wash"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "facial wash"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:6991",
+    "image_id": "train:0001406",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001406.png",
+    "pixel_sha256": "10aea6abea9260455502304859893260b7ffeb0be312f3992701214279bbce40",
+    "scene": "shelf",
+    "text": "I want to get the cylindrical can of coca cola at the bottom",
+    "boxes": [
+      [
+        236.0,
+        172.0,
+        270.0,
+        233.0
+      ],
+      [
+        266.0,
+        329.0,
+        305.0,
+        397.0
+      ],
+      [
+        302.0,
+        179.0,
+        344.0,
+        247.0
+      ],
+      [
+        389.0,
+        189.0,
+        434.0,
+        260.0
+      ],
+      [
+        461.0,
+        172.0,
+        504.0,
+        265.0
+      ]
+    ],
+    "target": 1,
+    "classes": [
+      [
+        "cola"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "yogurt"
+      ],
+      [
+        "yogurt"
+      ],
+      [
+        "bottled facial cleanser"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:7093",
+    "image_id": "train:0001427",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001427.png",
+    "pixel_sha256": "1a68892316a8d4681b933d595ad36178cc2602c5eb821cc0a0a1dad96a69d652",
+    "scene": "shelf",
+    "text": "I want to pick up the bottled facial cleanser on the bottom shelf",
+    "boxes": [
+      [
+        178.0,
+        392.0,
+        222.0,
+        460.0
+      ],
+      [
+        277.0,
+        235.0,
+        313.0,
+        296.0
+      ],
+      [
+        286.0,
+        393.0,
+        329.0,
+        465.0
+      ],
+      [
+        349.0,
+        359.0,
+        378.0,
+        449.0
+      ],
+      [
+        391.0,
+        233.0,
+        428.0,
+        295.0
+      ]
+    ],
+    "target": 3,
+    "classes": [
+      [
+        "yogurt"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "yogurt"
+      ],
+      [
+        "bottled facial cleanser"
+      ],
+      [
+        "cola"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:5358",
+    "image_id": "train:0001080",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001080.png",
+    "pixel_sha256": "297cf09a0a588d9731d0826d3e9e92cdb1b0164bef54f73075e5f6d02cfda398",
+    "scene": "shelf",
+    "text": "will you please give me the large bottled mouthwash on the middle shelf",
+    "boxes": [
+      [
+        133.0,
+        159.0,
+        178.0,
+        250.0
+      ],
+      [
+        157.0,
+        292.0,
+        188.0,
+        399.0
+      ],
+      [
+        260.0,
+        166.0,
+        282.0,
+        248.0
+      ],
+      [
+        319.0,
+        340.0,
+        345.0,
+        411.0
+      ],
+      [
+        372.0,
+        337.0,
+        402.0,
+        410.0
+      ]
+    ],
+    "target": 0,
+    "classes": [
+      [
+        "mouthwash"
+      ],
+      [
+        "detergent"
+      ],
+      [
+        "facial wash"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "facial cleanser"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:2583",
+    "image_id": "train:0000525",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0000525.png",
+    "pixel_sha256": "682093b413d12b5412255ecba7ce466bda3da457f1d6e0de11c64967f6e9ae50",
+    "scene": "shelf",
+    "text": "I need to get the press type laundry detergent on the middle shelf",
+    "boxes": [
+      [
+        265.0,
+        218.0,
+        312.0,
+        289.0
+      ],
+      [
+        303.0,
+        64.0,
+        345.0,
+        134.0
+      ],
+      [
+        357.0,
+        162.0,
+        407.0,
+        286.0
+      ],
+      [
+        422.0,
+        53.0,
+        464.0,
+        124.0
+      ],
+      [
+        459.0,
+        208.0,
+        504.0,
+        280.0
+      ]
+    ],
+    "target": 2,
+    "classes": [
+      [
+        "cola"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "detergent"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "cola"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:2971",
+    "image_id": "train:0000602",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0000602.png",
+    "pixel_sha256": "72d9d676e2a2bfa0121bd7c740941be5e8bdc4f11474bcece442618d74bd2a79",
+    "scene": "shelf",
+    "text": "I want the can of coca cola on the middle shelf",
+    "boxes": [
+      [
+        267.0,
+        184.0,
+        298.0,
+        270.0
+      ],
+      [
+        321.0,
+        319.0,
+        389.0,
+        458.0
+      ],
+      [
+        354.0,
+        185.0,
+        401.0,
+        259.0
+      ],
+      [
+        439.0,
+        357.0,
+        491.0,
+        440.0
+      ],
+      [
+        453.0,
+        166.0,
+        495.0,
+        250.0
+      ]
+    ],
+    "target": 2,
+    "classes": [
+      [
+        "juice"
+      ],
+      [
+        "detergent"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "juice"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:4299",
+    "image_id": "train:0000868",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0000868.png",
+    "pixel_sha256": "8d33f733cfdb685975c3fe1369e13e8602fe2e9bd6b959d3c71f6bb749966897",
+    "scene": "shelf",
+    "text": "I want to get the white and red bottled body lotion on the bottom left shelf",
+    "boxes": [
+      [
+        271.0,
+        360.0,
+        312.0,
+        455.0
+      ],
+      [
+        274.0,
+        176.0,
+        308.0,
+        276.0
+      ],
+      [
+        367.0,
+        336.0,
+        412.0,
+        445.0
+      ],
+      [
+        369.0,
+        224.0,
+        441.0,
+        266.0
+      ],
+      [
+        473.0,
+        336.0,
+        508.0,
+        440.0
+      ]
+    ],
+    "target": 0,
+    "classes": [
+      [
+        "body lotion"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "rectangular box"
+      ],
+      [
+        "toothpaste box"
+      ],
+      [
+        "body lotion"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:7850",
+    "image_id": "train:0001578",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001578.png",
+    "pixel_sha256": "7eef2effff5134f67c918257f7d02589e73c0449c09bc920a91c9aaaebabcc19",
+    "scene": "shelf",
+    "text": "would you please pass me the cylindrical bottled yogurt on the middle shelf",
+    "boxes": [
+      [
+        254.0,
+        281.0,
+        276.0,
+        319.0
+      ],
+      [
+        319.0,
+        264.0,
+        342.0,
+        318.0
+      ],
+      [
+        334.0,
+        195.0,
+        352.0,
+        230.0
+      ],
+      [
+        381.0,
+        181.0,
+        397.0,
+        230.0
+      ],
+      [
+        389.0,
+        287.0,
+        430.0,
+        319.0
+      ]
+    ],
+    "target": 3,
+    "classes": [
+      [
+        "yogurt"
+      ],
+      [
+        "mouthwash"
+      ],
+      [
+        "bottled facial cleanser"
+      ],
+      [
+        "yogurt"
+      ],
+      [
+        "giraffe"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:6836",
+    "image_id": "train:0001375",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001375.png",
+    "pixel_sha256": "ca1a85306859ed286f5bca0c60b0a0bd6ccae3faab14ab0a1c2403b5c8360622",
+    "scene": "shelf",
+    "text": "bring me the thick book with a black and white cover on the middle shelf",
+    "boxes": [
+      [
+        43.0,
+        356.0,
+        83.0,
+        440.0
+      ],
+      [
+        55.0,
+        252.0,
+        144.0,
+        284.0
+      ],
+      [
+        102.0,
+        359.0,
+        141.0,
+        442.0
+      ],
+      [
+        111.0,
+        78.0,
+        151.0,
+        141.0
+      ],
+      [
+        176.0,
+        200.0,
+        223.0,
+        288.0
+      ]
+    ],
+    "target": 4,
+    "classes": [
+      [
+        "body lotion"
+      ],
+      [
+        "bottled facial cleanser"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "book"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:9183",
+    "image_id": "train:0001845",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001845.png",
+    "pixel_sha256": "d6093164d9b28b890ab6c06637f7643ff135ada29d42dc2f8ad69f006dbaaba4",
+    "scene": "shelf",
+    "text": "grasp the facial cleanser in a white cylindrical bottle on the middle shelf",
+    "boxes": [
+      [
+        195.0,
+        271.0,
+        220.0,
+        311.0
+      ],
+      [
+        243.0,
+        276.0,
+        266.0,
+        321.0
+      ],
+      [
+        300.0,
+        128.0,
+        335.0,
+        151.0
+      ],
+      [
+        306.0,
+        182.0,
+        336.0,
+        237.0
+      ],
+      [
+        364.0,
+        197.0,
+        391.0,
+        254.0
+      ]
+    ],
+    "target": 3,
+    "classes": [
+      [
+        "vitamin bottle"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "vitamin bottle"
+      ],
+      [
+        "bottled facial cleanser"
+      ],
+      [
+        "toothpaste"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:4233",
+    "image_id": "train:0000855",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0000855.png",
+    "pixel_sha256": "b825cc68ee23a38e389689b78b2b151bedf3f430229bdd2a69c7bd1be2628b85",
+    "scene": "shelf",
+    "text": "where is the rectangular box with JVR on the middle shelf",
+    "boxes": [
+      [
+        225.0,
+        168.0,
+        274.0,
+        266.0
+      ],
+      [
+        299.0,
+        207.0,
+        387.0,
+        259.0
+      ],
+      [
+        376.0,
+        386.0,
+        484.0,
+        448.0
+      ],
+      [
+        408.0,
+        155.0,
+        456.0,
+        247.0
+      ],
+      [
+        492.0,
+        138.0,
+        532.0,
+        239.0
+      ]
+    ],
+    "target": 1,
+    "classes": [
+      [
+        "body lotion"
+      ],
+      [
+        "rectangular box"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "shampoo"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:8350",
+    "image_id": "train:0001678",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001678.png",
+    "pixel_sha256": "b1000b23fab9407de98f066fdedec4ea4bcb9c78015bb45fec596bd670d053f6",
+    "scene": "shelf",
+    "text": "can you give me the press type pink bottled baking soda toothpaste on the top shelf near the left",
+    "boxes": [
+      [
+        360.0,
+        114.0,
+        381.0,
+        160.0
+      ],
+      [
+        373.0,
+        286.0,
+        392.0,
+        338.0
+      ],
+      [
+        396.0,
+        98.0,
+        425.0,
+        152.0
+      ],
+      [
+        443.0,
+        180.0,
+        469.0,
+        228.0
+      ],
+      [
+        492.0,
+        264.0,
+        519.0,
+        318.0
+      ]
+    ],
+    "target": 0,
+    "classes": [
+      [
+        "toothpaste"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "bottled facial cleanser"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:9310",
+    "image_id": "train:0001870",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001870.png",
+    "pixel_sha256": "c66cae197b9d4e373f044815847c47d1628885db7de165c037b32f112c84d08f",
+    "scene": "shelf",
+    "text": "could you please pass me the white and green vitamin bottle at the top",
+    "boxes": [
+      [
+        200.0,
+        416.0,
+        219.0,
+        454.0
+      ],
+      [
+        258.0,
+        268.0,
+        287.0,
+        282.0
+      ],
+      [
+        273.0,
+        399.0,
+        288.0,
+        455.0
+      ],
+      [
+        294.0,
+        249.0,
+        312.0,
+        282.0
+      ],
+      [
+        300.0,
+        301.0,
+        324.0,
+        359.0
+      ]
+    ],
+    "target": 1,
+    "classes": [
+      [
+        "vitamin bottle"
+      ],
+      [
+        "vitamin bottle"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "vitamin bottle"
+      ],
+      [
+        "shampoo"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:3140",
+    "image_id": "train:0000636",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0000636.png",
+    "pixel_sha256": "472bfceb5ac649db96809bab734acfadaa8f058924910bf988ef9b4d950432e4",
+    "scene": "shelf",
+    "text": "will you please pass me the coconut juice in a black and yellow square box on the middle shelf near the right",
+    "boxes": [
+      [
+        335.0,
+        8.0,
+        383.0,
+        87.0
+      ],
+      [
+        345.0,
+        363.0,
+        382.0,
+        464.0
+      ],
+      [
+        433.0,
+        161.0,
+        477.0,
+        249.0
+      ],
+      [
+        433.0,
+        284.0,
+        492.0,
+        443.0
+      ],
+      [
+        461.0,
+        0,
+        508.0,
+        74.0
+      ]
+    ],
+    "target": 1,
+    "classes": [
+      [
+        "cola"
+      ],
+      [
+        "juice"
+      ],
+      [
+        "juice"
+      ],
+      [
+        "toothpaste box"
+      ],
+      [
+        "cola"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:7853",
+    "image_id": "train:0001579",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001579.png",
+    "pixel_sha256": "d86019f72aa207b25758630763d9613c5eab21caf2002314551e9332fba6c86a",
+    "scene": "shelf",
+    "text": "I need to pick up the mouthwash in a white and green bottle on the bottom shelf",
+    "boxes": [
+      [
+        275.0,
+        307.0,
+        297.0,
+        343.0
+      ],
+      [
+        341.0,
+        287.0,
+        366.0,
+        342.0
+      ],
+      [
+        353.0,
+        216.0,
+        375.0,
+        251.0
+      ],
+      [
+        404.0,
+        201.0,
+        419.0,
+        250.0
+      ],
+      [
+        416.0,
+        309.0,
+        456.0,
+        343.0
+      ]
+    ],
+    "target": 1,
+    "classes": [
+      [
+        "yogurt"
+      ],
+      [
+        "mouthwash"
+      ],
+      [
+        "yogurt"
+      ],
+      [
+        "bottled facial cleanser"
+      ],
+      [
+        "giraffe"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:7277",
+    "image_id": "train:0001463",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001463.png",
+    "pixel_sha256": "4cea8255213e9a82da50775a64cf04b6ed457f6b9d1f2a3c9c872626f3097e60",
+    "scene": "shelf",
+    "text": "could you please bring me the pepsi cola can on the middle shelf",
+    "boxes": [
+      [
+        348.0,
+        358.0,
+        373.0,
+        463.0
+      ],
+      [
+        364.0,
+        402.0,
+        474.0,
+        477.0
+      ],
+      [
+        365.0,
+        227.0,
+        401.0,
+        288.0
+      ],
+      [
+        431.0,
+        207.0,
+        463.0,
+        282.0
+      ],
+      [
+        462.0,
+        413.0,
+        544.0,
+        480
+      ]
+    ],
+    "target": 1,
+    "classes": [
+      [
+        "facial cleanser"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "shampoo"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:8070",
+    "image_id": "train:0001622",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001622.png",
+    "pixel_sha256": "4ec98a7114e214aff12c5da0f60efa1adc5381e9b98b4cbc925519b6faa0d1d5",
+    "scene": "shelf",
+    "text": "will you please pass me the yellow cylindrical bottled yogurt on the bottom left shelf",
+    "boxes": [
+      [
+        287.0,
+        323.0,
+        312.0,
+        364.0
+      ],
+      [
+        290.0,
+        127.0,
+        336.0,
+        172.0
+      ],
+      [
+        324.0,
+        207.0,
+        350.0,
+        257.0
+      ],
+      [
+        371.0,
+        196.0,
+        393.0,
+        249.0
+      ],
+      [
+        376.0,
+        310.0,
+        402.0,
+        349.0
+      ]
+    ],
+    "target": 0,
+    "classes": [
+      [
+        "yogurt"
+      ],
+      [
+        "giraffe"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "bottled facial cleanser"
+      ],
+      [
+        "yogurt"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:5541",
+    "image_id": "train:0001116",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001116.png",
+    "pixel_sha256": "e2abad2776cf1d3cade7777e5091bf855fd59351760af7f74641f3e1d3e65c86",
+    "scene": "shelf",
+    "text": "could you please pass me the white bottled JVR facial wash on the middle shelf",
+    "boxes": [
+      [
+        239.0,
+        305.0,
+        294.0,
+        399.0
+      ],
+      [
+        265.0,
+        150.0,
+        321.0,
+        256.0
+      ],
+      [
+        365.0,
+        366.0,
+        414.0,
+        463.0
+      ],
+      [
+        402.0,
+        14.0,
+        462.0,
+        119.0
+      ],
+      [
+        430.0,
+        198.0,
+        487.0,
+        295.0
+      ]
+    ],
+    "target": 1,
+    "classes": [
+      [
+        "mouthwash"
+      ],
+      [
+        "facial wash"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "facial wash"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:6037",
+    "image_id": "train:0001215",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001215.png",
+    "pixel_sha256": "4cf7e1caf948d527efcb430b45680e76778c867fe5745d3944ccf1a74f3f9aec",
+    "scene": "shelf",
+    "text": "I would like to grasp the press type facial wash with a black handy pump on the middle shelf",
+    "boxes": [
+      [
+        153.0,
+        385.0,
+        216.0,
+        463.0
+      ],
+      [
+        259.0,
+        318.0,
+        330.0,
+        460.0
+      ],
+      [
+        327.0,
+        172.0,
+        382.0,
+        271.0
+      ],
+      [
+        351.0,
+        386.0,
+        450.0,
+        438.0
+      ],
+      [
+        404.0,
+        195.0,
+        442.0,
+        280.0
+      ]
+    ],
+    "target": 2,
+    "classes": [
+      [
+        "toothpaste"
+      ],
+      [
+        "detergent"
+      ],
+      [
+        "facial wash"
+      ],
+      [
+        "facial wash"
+      ],
+      [
+        "toothpaste"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:4208",
+    "image_id": "train:0000850",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0000850.png",
+    "pixel_sha256": "39cff418a96137890d7b50afa7dfdaad86e8abeec8f98c111618d50b4f8b2c57",
+    "scene": "shelf",
+    "text": "I would like to pick up the large white and orange rectangular box on the middle shelf",
+    "boxes": [
+      [
+        206.0,
+        192.0,
+        249.0,
+        278.0
+      ],
+      [
+        283.0,
+        228.0,
+        338.0,
+        273.0
+      ],
+      [
+        324.0,
+        403.0,
+        444.0,
+        459.0
+      ],
+      [
+        377.0,
+        172.0,
+        423.0,
+        264.0
+      ],
+      [
+        468.0,
+        151.0,
+        503.0,
+        257.0
+      ]
+    ],
+    "target": 1,
+    "classes": [
+      [
+        "body lotion"
+      ],
+      [
+        "rectangular box"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "shampoo"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:9591",
+    "image_id": "train:0001926",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001926.png",
+    "pixel_sha256": "46744074db3a20bb6a67f4cdb61d558396791abb013f39f6ae8b656c339098c0",
+    "scene": "shelf",
+    "text": "I would like to grasp the pepsi cola can on the bottom shelf near the right",
+    "boxes": [
+      [
+        178.0,
+        263.0,
+        205.0,
+        304.0
+      ],
+      [
+        215.0,
+        272.0,
+        242.0,
+        313.0
+      ],
+      [
+        255.0,
+        289.0,
+        277.0,
+        322.0
+      ],
+      [
+        279.0,
+        188.0,
+        307.0,
+        228.0
+      ],
+      [
+        328.0,
+        300.0,
+        356.0,
+        341.0
+      ]
+    ],
+    "target": 4,
+    "classes": [
+      [
+        "cola"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "vitamin bottle"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "cola"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:8733",
+    "image_id": "train:0001755",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001755.png",
+    "pixel_sha256": "44244bb46a6950bb4b99e4b9913043d3048f033232a379240525aed1a8648244",
+    "scene": "shelf",
+    "text": "could you fetch me the white bottled facial cleanser on the bottom shelf",
+    "boxes": [
+      [
+        242.0,
+        315.0,
+        267.0,
+        375.0
+      ],
+      [
+        369.0,
+        151.0,
+        385.0,
+        198.0
+      ],
+      [
+        386.0,
+        251.0,
+        405.0,
+        284.0
+      ],
+      [
+        417.0,
+        328.0,
+        438.0,
+        387.0
+      ],
+      [
+        427.0,
+        248.0,
+        448.0,
+        285.0
+      ]
+    ],
+    "target": 3,
+    "classes": [
+      [
+        "toothpaste"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "vitamin bottle"
+      ],
+      [
+        "bottled facial cleanser"
+      ],
+      [
+        "vitamin bottle"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:8803",
+    "image_id": "train:0001769",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001769.png",
+    "pixel_sha256": "aa4c45ad53526483690977cb0ebf3c560ef6659b06c552fa71da75595d4b4b38",
+    "scene": "shelf",
+    "text": "would you pass me the white cylindrical bottle at the bottom",
+    "boxes": [
+      [
+        322.0,
+        311.0,
+        350.0,
+        367.0
+      ],
+      [
+        378.0,
+        115.0,
+        399.0,
+        160.0
+      ],
+      [
+        426.0,
+        202.0,
+        450.0,
+        236.0
+      ],
+      [
+        466.0,
+        184.0,
+        495.0,
+        224.0
+      ],
+      [
+        485.0,
+        267.0,
+        519.0,
+        325.0
+      ]
+    ],
+    "target": 4,
+    "classes": [
+      [
+        "toothpaste"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "vitamin bottle"
+      ],
+      [
+        "vitamin bottle"
+      ],
+      [
+        "bottled facial cleanser"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:5121",
+    "image_id": "train:0001032",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001032.png",
+    "pixel_sha256": "a486e6a795b7eae546b72842100878c106baddad76ba911a30268fb7b6dbd20e",
+    "scene": "shelf",
+    "text": "bring me the prolate haifeisi shampoo on the bottom shelf",
+    "boxes": [
+      [
+        218.0,
+        278.0,
+        240.0,
+        372.0
+      ],
+      [
+        246.0,
+        139.0,
+        272.0,
+        243.0
+      ],
+      [
+        283.0,
+        293.0,
+        327.0,
+        401.0
+      ],
+      [
+        326.0,
+        382.0,
+        377.0,
+        444.0
+      ],
+      [
+        371.0,
+        168.0,
+        415.0,
+        245.0
+      ]
+    ],
+    "target": 0,
+    "classes": [
+      [
+        "shampoo"
+      ],
+      [
+        "mouthwash"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "toothpaste box"
+      ],
+      [
+        "facial cleanser"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:5086",
+    "image_id": "train:0001025",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001025.png",
+    "pixel_sha256": "3f947cdeb2e59a1118f2b943bc9de19c35e166ae378d04e510b8672948bdc7e9",
+    "scene": "shelf",
+    "text": "would you please pass me the shampoo at the bottom",
+    "boxes": [
+      [
+        338.0,
+        165.0,
+        370.0,
+        265.0
+      ],
+      [
+        351.0,
+        297.0,
+        380.0,
+        397.0
+      ],
+      [
+        399.0,
+        310.0,
+        445.0,
+        420.0
+      ],
+      [
+        443.0,
+        402.0,
+        497.0,
+        466.0
+      ],
+      [
+        466.0,
+        161.0,
+        514.0,
+        248.0
+      ]
+    ],
+    "target": 2,
+    "classes": [
+      [
+        "mouthwash"
+      ],
+      [
+        "toothpaste box"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "facial cleanser"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:7255",
+    "image_id": "train:0001459",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001459.png",
+    "pixel_sha256": "ac47c7201144292614dc96b3fe22e76a5c856fc33af31a6add78120f68934d25",
+    "scene": "shelf",
+    "text": "I want to grab the conical bottled facial cleanser on the middle shelf",
+    "boxes": [
+      [
+        237.0,
+        310.0,
+        260.0,
+        408.0
+      ],
+      [
+        246.0,
+        178.0,
+        276.0,
+        243.0
+      ],
+      [
+        263.0,
+        349.0,
+        351.0,
+        419.0
+      ],
+      [
+        304.0,
+        172.0,
+        336.0,
+        239.0
+      ],
+      [
+        362.0,
+        360.0,
+        411.0,
+        421.0
+      ]
+    ],
+    "target": 3,
+    "classes": [
+      [
+        "shampoo"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "facial cleanser"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:9064",
+    "image_id": "train:0001821",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001821.png",
+    "pixel_sha256": "27468a4acc1a233c21100bc12f191f2bb30a596fd1b667db9a9ec6e88dd12dc9",
+    "scene": "shelf",
+    "text": "could you please hand me the baking soda toothpaste in a big conical bottle on the middle shelf",
+    "boxes": [
+      [
+        195.0,
+        279.0,
+        212.0,
+        315.0
+      ],
+      [
+        272.0,
+        176.0,
+        292.0,
+        228.0
+      ],
+      [
+        278.0,
+        121.0,
+        294.0,
+        150.0
+      ],
+      [
+        303.0,
+        180.0,
+        320.0,
+        229.0
+      ],
+      [
+        346.0,
+        190.0,
+        360.0,
+        232.0
+      ]
+    ],
+    "target": 1,
+    "classes": [
+      [
+        "vitamin bottle"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "vitamin bottle"
+      ],
+      [
+        "bottled facial cleanser"
+      ],
+      [
+        "toothpaste"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:4251",
+    "image_id": "train:0000858",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0000858.png",
+    "pixel_sha256": "700cc2128e88979e8f1815a771de38d93589ed06ab7b934aaf82da835c1d0f32",
+    "scene": "shelf",
+    "text": "I want to grasp the conical bottled shampoo at the bottom",
+    "boxes": [
+      [
+        168.0,
+        148.0,
+        223.0,
+        252.0
+      ],
+      [
+        251.0,
+        212.0,
+        338.0,
+        268.0
+      ],
+      [
+        277.0,
+        423.0,
+        404.0,
+        477.0
+      ],
+      [
+        368.0,
+        175.0,
+        420.0,
+        273.0
+      ],
+      [
+        461.0,
+        176.0,
+        506.0,
+        284.0
+      ]
+    ],
+    "target": 2,
+    "classes": [
+      [
+        "body lotion"
+      ],
+      [
+        "rectangular box"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "shampoo"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:6656",
+    "image_id": "train:0001339",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001339.png",
+    "pixel_sha256": "b82742350e8891b64032ba408b1cc60d4b1295226c31a9873d5306ea078f741b",
+    "scene": "shelf",
+    "text": "I want to pick up the old book with a black and white cover on the bottom shelf",
+    "boxes": [
+      [
+        126.0,
+        395.0,
+        168.0,
+        470.0
+      ],
+      [
+        242.0,
+        213.0,
+        280.0,
+        294.0
+      ],
+      [
+        319.0,
+        333.0,
+        358.0,
+        426.0
+      ],
+      [
+        320.0,
+        210.0,
+        344.0,
+        296.0
+      ],
+      [
+        368.0,
+        203.0,
+        395.0,
+        281.0
+      ]
+    ],
+    "target": 2,
+    "classes": [
+      [
+        "cola"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "book"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "bottled facial cleanser"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:4748",
+    "image_id": "train:0000958",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0000958.png",
+    "pixel_sha256": "e64308cd6bfbb73fa37da595abe1bb4027e2a0f6e960bc13c21139b26082e9d7",
+    "scene": "shelf",
+    "text": "could you please hand me the large bottled mouthwash on the middle shelf",
+    "boxes": [
+      [
+        154.0,
+        273.0,
+        184.0,
+        378.0
+      ],
+      [
+        205.0,
+        130.0,
+        252.0,
+        238.0
+      ],
+      [
+        243.0,
+        321.0,
+        274.0,
+        406.0
+      ],
+      [
+        312.0,
+        403.0,
+        370.0,
+        437.0
+      ],
+      [
+        329.0,
+        144.0,
+        386.0,
+        251.0
+      ]
+    ],
+    "target": 4,
+    "classes": [
+      [
+        "shampoo"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "mouthwash"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:6573",
+    "image_id": "train:0001323",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001323.png",
+    "pixel_sha256": "2dc7b7ee35350020e239642dc2e44ae1b86ac272f522637db4a4dad3f57f0c3b",
+    "scene": "shelf",
+    "text": "pick up the facial cleanser in a cylindrical bottle on the bottom shelf",
+    "boxes": [
+      [
+        147.0,
+        368.0,
+        181.0,
+        460.0
+      ],
+      [
+        250.0,
+        383.0,
+        286.0,
+        454.0
+      ],
+      [
+        255.0,
+        201.0,
+        312.0,
+        292.0
+      ],
+      [
+        368.0,
+        400.0,
+        407.0,
+        466.0
+      ],
+      [
+        378.0,
+        255.0,
+        402.0,
+        296.0
+      ]
+    ],
+    "target": 0,
+    "classes": [
+      [
+        "bottled facial cleanser"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "book"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "rectangular box"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": false
+  },
+  {
+    "id": "train:8408",
+    "image_id": "train:0001690",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001690.png",
+    "pixel_sha256": "9324a886e77933b95283add2d2b41a96a9131938a24758a9ef5eab444e0c2d21",
+    "scene": "shelf",
+    "text": "I would like to grab the white cylindrical bottle on the bottom shelf",
+    "boxes": [
+      [
+        177.0,
+        348.0,
+        192.0,
+        398.0
+      ],
+      [
+        198.0,
+        183.0,
+        219.0,
+        225.0
+      ],
+      [
+        240.0,
+        177.0,
+        262.0,
+        227.0
+      ],
+      [
+        270.0,
+        263.0,
+        290.0,
+        306.0
+      ],
+      [
+        297.0,
+        347.0,
+        315.0,
+        398.0
+      ]
+    ],
+    "target": 4,
+    "classes": [
+      [
+        "body lotion"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "bottled facial cleanser"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:5404",
+    "image_id": "train:0001089",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001089.png",
+    "pixel_sha256": "5997fdf6defe4386ef3d2e8f76afa6f64ad87968925a1e80f12b6f3134fcb77f",
+    "scene": "shelf",
+    "text": "would you fetch me the white bottled body milk with a red cap on the bottom shelf near the left",
+    "boxes": [
+      [
+        364.0,
+        363.0,
+        415.0,
+        459.0
+      ],
+      [
+        394.0,
+        176.0,
+        441.0,
+        278.0
+      ],
+      [
+        476.0,
+        178.0,
+        522.0,
+        277.0
+      ],
+      [
+        537.0,
+        368.0,
+        569.0,
+        473.0
+      ],
+      [
+        562.0,
+        178.0,
+        620.0,
+        275.0
+      ]
+    ],
+    "target": 0,
+    "classes": [
+      [
+        "body lotion"
+      ],
+      [
+        "mouthwash"
+      ],
+      [
+        "facial wash"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "facial wash"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:8965",
+    "image_id": "train:0001801",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001801.png",
+    "pixel_sha256": "18140b67b7953cd2988f5756a42795fcb886e3fa3184db2711767282dd058f98",
+    "scene": "shelf",
+    "text": "will you please pass me the press type pink bottled toothpaste at the top",
+    "boxes": [
+      [
+        355.0,
+        124.0,
+        370.0,
+        166.0
+      ],
+      [
+        357.0,
+        193.0,
+        377.0,
+        247.0
+      ],
+      [
+        394.0,
+        213.0,
+        412.0,
+        243.0
+      ],
+      [
+        454.0,
+        201.0,
+        474.0,
+        238.0
+      ],
+      [
+        455.0,
+        281.0,
+        477.0,
+        336.0
+      ]
+    ],
+    "target": 0,
+    "classes": [
+      [
+        "toothpaste"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "vitamin bottle"
+      ],
+      [
+        "vitamin bottle"
+      ],
+      [
+        "bottled facial cleanser"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:6680",
+    "image_id": "train:0001344",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001344.png",
+    "pixel_sha256": "a59b2aa2626d3f37d73a39e06de813a33557af7fe281e0c1a0e48b40970b6092",
+    "scene": "shelf",
+    "text": "would you please hand me the white bottled body milk with a red cap at the bottom",
+    "boxes": [
+      [
+        151.0,
+        304.0,
+        177.0,
+        383.0
+      ],
+      [
+        187.0,
+        321.0,
+        224.0,
+        396.0
+      ],
+      [
+        256.0,
+        178.0,
+        275.0,
+        249.0
+      ],
+      [
+        352.0,
+        197.0,
+        386.0,
+        259.0
+      ],
+      [
+        382.0,
+        355.0,
+        447.0,
+        429.0
+      ]
+    ],
+    "target": 1,
+    "classes": [
+      [
+        "bottled facial cleanser"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "book"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:6080",
+    "image_id": "train:0001224",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001224.png",
+    "pixel_sha256": "90f52310b9b04f2573bb225c988f541be34698145bc76335b25e05b9a95ffc24",
+    "scene": "shelf",
+    "text": "please hand me the white and green bottled laundry detergent with a white handy pump on the middle shelf",
+    "boxes": [
+      [
+        222.0,
+        368.0,
+        269.0,
+        452.0
+      ],
+      [
+        254.0,
+        32.0,
+        298.0,
+        128.0
+      ],
+      [
+        317.0,
+        147.0,
+        382.0,
+        269.0
+      ],
+      [
+        327.0,
+        28.0,
+        360.0,
+        112.0
+      ],
+      [
+        378.0,
+        329.0,
+        420.0,
+        433.0
+      ]
+    ],
+    "target": 2,
+    "classes": [
+      [
+        "facial wash"
+      ],
+      [
+        "facial wash"
+      ],
+      [
+        "detergent"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "toothpaste"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:5107",
+    "image_id": "train:0001029",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001029.png",
+    "pixel_sha256": "768b32d13142a913d24ece05c174885737e375d23b69d7e8f8190787c3209ce7",
+    "scene": "shelf",
+    "text": "give me the small blue cuboid box at the bottom",
+    "boxes": [
+      [
+        390.0,
+        291.0,
+        430.0,
+        391.0
+      ],
+      [
+        420.0,
+        136.0,
+        459.0,
+        244.0
+      ],
+      [
+        474.0,
+        291.0,
+        523.0,
+        408.0
+      ],
+      [
+        550.0,
+        377.0,
+        632.0,
+        446.0
+      ],
+      [
+        552.0,
+        140.0,
+        600.0,
+        225.0
+      ]
+    ],
+    "target": 0,
+    "classes": [
+      [
+        "toothpaste box"
+      ],
+      [
+        "mouthwash"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "facial cleanser"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:7492",
+    "image_id": "train:0001506",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001506.png",
+    "pixel_sha256": "31e9e8c9ed85db623dd8c6fd1bb59353fa7b2028b9f65eba12297faffe5a735e",
+    "scene": "shelf",
+    "text": "fetch the cylindrical bottled yogurt on the middle shelf near the left",
+    "boxes": [
+      [
+        211.0,
+        364.0,
+        263.0,
+        462.0
+      ],
+      [
+        312.0,
+        188.0,
+        357.0,
+        258.0
+      ],
+      [
+        323.0,
+        347.0,
+        374.0,
+        446.0
+      ],
+      [
+        440.0,
+        167.0,
+        477.0,
+        243.0
+      ],
+      [
+        447.0,
+        338.0,
+        568.0,
+        401.0
+      ]
+    ],
+    "target": 1,
+    "classes": [
+      [
+        "facial cleanser"
+      ],
+      [
+        "yogurt"
+      ],
+      [
+        "giraffe"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "pill box"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:6972",
+    "image_id": "train:0001402",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001402.png",
+    "pixel_sha256": "3b07192c3f7252f5f23971555a30d6a17e66a112b77deed2d1dfe578c80f5c70",
+    "scene": "shelf",
+    "text": "could you pass me the coca cola on the middle shelf",
+    "boxes": [
+      [
+        303.0,
+        196.0,
+        341.0,
+        257.0
+      ],
+      [
+        374.0,
+        339.0,
+        418.0,
+        409.0
+      ],
+      [
+        377.0,
+        184.0,
+        416.0,
+        250.0
+      ],
+      [
+        467.0,
+        172.0,
+        511.0,
+        241.0
+      ],
+      [
+        536.0,
+        141.0,
+        574.0,
+        234.0
+      ]
+    ],
+    "target": 0,
+    "classes": [
+      [
+        "cola"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "yogurt"
+      ],
+      [
+        "yogurt"
+      ],
+      [
+        "bottled facial cleanser"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:7412",
+    "image_id": "train:0001490",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001490.png",
+    "pixel_sha256": "bab48f402767adcffe5695a96b2c7639396407e8ca195af0dd494ad0b1dc618c",
+    "scene": "shelf",
+    "text": "could you please give me the yellow cylindrical bottled yogurt on the bottom shelf near the left",
+    "boxes": [
+      [
+        205.0,
+        416.0,
+        264.0,
+        479.0
+      ],
+      [
+        239.0,
+        188.0,
+        304.0,
+        284.0
+      ],
+      [
+        275.0,
+        374.0,
+        363.0,
+        471.0
+      ],
+      [
+        296.0,
+        107.0,
+        366.0,
+        263.0
+      ],
+      [
+        433.0,
+        188.0,
+        502.0,
+        230.0
+      ]
+    ],
+    "target": 0,
+    "classes": [
+      [
+        "yogurt"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "giraffe"
+      ],
+      [
+        "pill box"
+      ],
+      [
+        "facial cleanser"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:8746",
+    "image_id": "train:0001757",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001757.png",
+    "pixel_sha256": "7eafc14eedc64db40e9bdc6742723f3fc980be4a00b8e4dbb638a5c38f802b42",
+    "scene": "shelf",
+    "text": "would you please pass me the vitamins in white cylindrical bottle on the middle shelf",
+    "boxes": [
+      [
+        264.0,
+        315.0,
+        291.0,
+        373.0
+      ],
+      [
+        340.0,
+        115.0,
+        362.0,
+        163.0
+      ],
+      [
+        381.0,
+        210.0,
+        404.0,
+        245.0
+      ],
+      [
+        421.0,
+        196.0,
+        446.0,
+        237.0
+      ],
+      [
+        435.0,
+        278.0,
+        464.0,
+        337.0
+      ]
+    ],
+    "target": 3,
+    "classes": [
+      [
+        "toothpaste"
+      ],
+      [
+        "vitamin bottle"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "vitamin bottle"
+      ],
+      [
+        "bottled facial cleanser"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:4276",
+    "image_id": "train:0000863",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0000863.png",
+    "pixel_sha256": "02f1e08eeed10f202728f1585a3900de69f545088b8bea2eb5be90bda39c69f1",
+    "scene": "shelf",
+    "text": "I need the prolate haifeisi shampoo at the bottom",
+    "boxes": [
+      [
+        140.0,
+        212.0,
+        189.0,
+        296.0
+      ],
+      [
+        221.0,
+        223.0,
+        262.0,
+        274.0
+      ],
+      [
+        278.0,
+        386.0,
+        398.0,
+        456.0
+      ],
+      [
+        295.0,
+        158.0,
+        347.0,
+        250.0
+      ],
+      [
+        374.0,
+        118.0,
+        421.0,
+        224.0
+      ]
+    ],
+    "target": 2,
+    "classes": [
+      [
+        "body lotion"
+      ],
+      [
+        "rectangular box"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "shampoo"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:5502",
+    "image_id": "train:0001108",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001108.png",
+    "pixel_sha256": "8f96b90d5077a34e24c853996b7c00d8c07e32fa4d390c39e80750e7716bb328",
+    "scene": "shelf",
+    "text": "will you please pass me the press type facial wash on the middle shelf",
+    "boxes": [
+      [
+        241.0,
+        196.0,
+        284.0,
+        291.0
+      ],
+      [
+        271.0,
+        340.0,
+        311.0,
+        433.0
+      ],
+      [
+        338.0,
+        41.0,
+        384.0,
+        135.0
+      ],
+      [
+        380.0,
+        376.0,
+        420.0,
+        476.0
+      ],
+      [
+        406.0,
+        204.0,
+        450.0,
+        295.0
+      ]
+    ],
+    "target": 4,
+    "classes": [
+      [
+        "facial wash"
+      ],
+      [
+        "mouthwash"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "facial wash"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:5302",
+    "image_id": "train:0001068",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001068.png",
+    "pixel_sha256": "ae5151e0284fb3bc6245144f8e6b64aaf4a1398dba54917c7f660d64c08693d3",
+    "scene": "shelf",
+    "text": "hand me the press type facial wash on the middle shelf",
+    "boxes": [
+      [
+        273.0,
+        151.0,
+        323.0,
+        264.0
+      ],
+      [
+        306.0,
+        335.0,
+        351.0,
+        408.0
+      ],
+      [
+        344.0,
+        42.0,
+        385.0,
+        85.0
+      ],
+      [
+        374.0,
+        150.0,
+        414.0,
+        235.0
+      ],
+      [
+        375.0,
+        368.0,
+        406.0,
+        434.0
+      ]
+    ],
+    "target": 4,
+    "classes": [
+      [
+        "facial cleanser"
+      ],
+      [
+        "mouthwash"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "detergent"
+      ],
+      [
+        "facial wash"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:8783",
+    "image_id": "train:0001765",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001765.png",
+    "pixel_sha256": "d30c17cbd4d34bee2a43e424b6389ab523ed786f39c19e2cd3b20b172a78b6ea",
+    "scene": "shelf",
+    "text": "I hope to pick up the white cylindrical bottle on the bottom shelf",
+    "boxes": [
+      [
+        272.0,
+        304.0,
+        294.0,
+        358.0
+      ],
+      [
+        376.0,
+        142.0,
+        390.0,
+        186.0
+      ],
+      [
+        398.0,
+        234.0,
+        414.0,
+        264.0
+      ],
+      [
+        434.0,
+        304.0,
+        452.0,
+        358.0
+      ],
+      [
+        437.0,
+        228.0,
+        454.0,
+        263.0
+      ]
+    ],
+    "target": 3,
+    "classes": [
+      [
+        "toothpaste"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "vitamin bottle"
+      ],
+      [
+        "bottled facial cleanser"
+      ],
+      [
+        "vitamin bottle"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:5725",
+    "image_id": "train:0001153",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001153.png",
+    "pixel_sha256": "4573817262691c62f1f262f42376b8f3d8b562ca53d89c4a33b06bcc0d94eb16",
+    "scene": "shelf",
+    "text": "could you hand me the body milk with a red bottle cap on the middle shelf near the right",
+    "boxes": [
+      [
+        182.0,
+        359.0,
+        232.0,
+        465.0
+      ],
+      [
+        198.0,
+        181.0,
+        235.0,
+        275.0
+      ],
+      [
+        280.0,
+        182.0,
+        322.0,
+        267.0
+      ],
+      [
+        321.0,
+        336.0,
+        349.0,
+        416.0
+      ],
+      [
+        354.0,
+        177.0,
+        395.0,
+        262.0
+      ]
+    ],
+    "target": 4,
+    "classes": [
+      [
+        "facial wash"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "facial wash"
+      ],
+      [
+        "body lotion"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:4774",
+    "image_id": "train:0000963",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0000963.png",
+    "pixel_sha256": "24cb12dc4bed96746583452bc9d7b57d6e710ed9284221e68a561d7d054415af",
+    "scene": "shelf",
+    "text": "would you please hand me the conical bottled facial cleanser on the bottom shelf near the left",
+    "boxes": [
+      [
+        244.0,
+        199.0,
+        282.0,
+        296.0
+      ],
+      [
+        259.0,
+        345.0,
+        286.0,
+        444.0
+      ],
+      [
+        325.0,
+        373.0,
+        355.0,
+        458.0
+      ],
+      [
+        360.0,
+        180.0,
+        411.0,
+        287.0
+      ],
+      [
+        367.0,
+        448.0,
+        451.0,
+        480
+      ]
+    ],
+    "target": 2,
+    "classes": [
+      [
+        "shampoo"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "mouthwash"
+      ],
+      [
+        "facial cleanser"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:8012",
+    "image_id": "train:0001610",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001610.png",
+    "pixel_sha256": "abaab4924a81b159ddecd17c4c7bc78e79f97c888e81b082174339a0ee6cf440",
+    "scene": "shelf",
+    "text": "I want to grab the white bottled body milk on the middle shelf",
+    "boxes": [
+      [
+        184.0,
+        206.0,
+        207.0,
+        243.0
+      ],
+      [
+        187.0,
+        107.0,
+        219.0,
+        160.0
+      ],
+      [
+        220.0,
+        275.0,
+        240.0,
+        325.0
+      ],
+      [
+        240.0,
+        191.0,
+        264.0,
+        237.0
+      ],
+      [
+        294.0,
+        289.0,
+        315.0,
+        327.0
+      ]
+    ],
+    "target": 3,
+    "classes": [
+      [
+        "yogurt"
+      ],
+      [
+        "giraffe"
+      ],
+      [
+        "bottled facial cleanser"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "yogurt"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:2724",
+    "image_id": "train:0000553",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0000553.png",
+    "pixel_sha256": "32c6fade5c0d88f382bdd62c1a0cdbfda272754319c8fb71edfc9db5e8b251b7",
+    "scene": "shelf",
+    "text": "will you please fetch me the cylindrical can of pepsi cola on the middle shelf",
+    "boxes": [
+      [
+        117.0,
+        93.0,
+        244.0,
+        146.0
+      ],
+      [
+        128.0,
+        228.0,
+        174.0,
+        298.0
+      ],
+      [
+        143.0,
+        403.0,
+        192.0,
+        480
+      ],
+      [
+        271.0,
+        218.0,
+        310.0,
+        285.0
+      ],
+      [
+        292.0,
+        385.0,
+        335.0,
+        463.0
+      ]
+    ],
+    "target": 3,
+    "classes": [
+      [
+        "detergent"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "cola"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:7148",
+    "image_id": "train:0001438",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001438.png",
+    "pixel_sha256": "29bbe41b14d0e666443a67a81cf8ea46359e533b4e0f4a115503fb129f5e3baf",
+    "scene": "shelf",
+    "text": "pass me the conical bottled shampoo at the bottom",
+    "boxes": [
+      [
+        25.0,
+        363.0,
+        75.0,
+        480
+      ],
+      [
+        139.0,
+        179.0,
+        190.0,
+        267.0
+      ],
+      [
+        158.0,
+        336.0,
+        214.0,
+        476.0
+      ],
+      [
+        215.0,
+        197.0,
+        250.0,
+        266.0
+      ],
+      [
+        282.0,
+        182.0,
+        329.0,
+        267.0
+      ]
+    ],
+    "target": 2,
+    "classes": [
+      [
+        "shampoo"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "facial cleanser"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:2822",
+    "image_id": "train:0000572",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0000572.png",
+    "pixel_sha256": "548d8b5bf3ca99508cafb83f4d0f24c0e9b4f20cb6d7b227b1f362cbfdb200fc",
+    "scene": "shelf",
+    "text": "can you give me the canned coca cola at the bottom",
+    "boxes": [
+      [
+        199.0,
+        381.0,
+        248.0,
+        463.0
+      ],
+      [
+        209.0,
+        209.0,
+        255.0,
+        276.0
+      ],
+      [
+        283.0,
+        369.0,
+        334.0,
+        453.0
+      ],
+      [
+        284.0,
+        213.0,
+        413.0,
+        261.0
+      ],
+      [
+        364.0,
+        359.0,
+        418.0,
+        447.0
+      ]
+    ],
+    "target": 2,
+    "classes": [
+      [
+        "cola"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "detergent"
+      ],
+      [
+        "cola"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:6342",
+    "image_id": "train:0001276",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001276.png",
+    "pixel_sha256": "b4fe278c1de4cf1b944dfe053e6b470e75c793e4e78bae891855f71166ed9730",
+    "scene": "shelf",
+    "text": "please pass me the coconut juice at the top",
+    "boxes": [
+      [
+        173.0,
+        385.0,
+        222.0,
+        471.0
+      ],
+      [
+        249.0,
+        32.0,
+        296.0,
+        109.0
+      ],
+      [
+        262.0,
+        334.0,
+        352.0,
+        463.0
+      ],
+      [
+        288.0,
+        226.0,
+        319.0,
+        266.0
+      ],
+      [
+        342.0,
+        171.0,
+        374.0,
+        254.0
+      ]
+    ],
+    "target": 1,
+    "classes": [
+      [
+        "toothpaste"
+      ],
+      [
+        "juice"
+      ],
+      [
+        "book"
+      ],
+      [
+        "square box"
+      ],
+      [
+        "toothpaste"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:6797",
+    "image_id": "train:0001367",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001367.png",
+    "pixel_sha256": "8892fc90eff5facc2fa5e764f8efac46676c752938014699d42c907f0e5a08e5",
+    "scene": "shelf",
+    "text": "I would like to grab the cylindrical can of coca cola at the top",
+    "boxes": [
+      [
+        81.0,
+        358.0,
+        131.0,
+        461.0
+      ],
+      [
+        126.0,
+        232.0,
+        206.0,
+        271.0
+      ],
+      [
+        158.0,
+        354.0,
+        205.0,
+        454.0
+      ],
+      [
+        169.0,
+        9.0,
+        219.0,
+        91.0
+      ],
+      [
+        203.0,
+        163.0,
+        274.0,
+        267.0
+      ]
+    ],
+    "target": 3,
+    "classes": [
+      [
+        "body lotion"
+      ],
+      [
+        "bottled facial cleanser"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "book"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:7842",
+    "image_id": "train:0001576",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001576.png",
+    "pixel_sha256": "42825a80c34b8031f8174b36fd44bc27c02e33c072e92ff773f74f29504da1b5",
+    "scene": "shelf",
+    "text": "I would like to get the bottled facial cleanser on the middle shelf",
+    "boxes": [
+      [
+        185.0,
+        279.0,
+        209.0,
+        316.0
+      ],
+      [
+        252.0,
+        263.0,
+        277.0,
+        316.0
+      ],
+      [
+        270.0,
+        193.0,
+        292.0,
+        227.0
+      ],
+      [
+        317.0,
+        180.0,
+        335.0,
+        229.0
+      ],
+      [
+        326.0,
+        287.0,
+        363.0,
+        319.0
+      ]
+    ],
+    "target": 3,
+    "classes": [
+      [
+        "yogurt"
+      ],
+      [
+        "mouthwash"
+      ],
+      [
+        "yogurt"
+      ],
+      [
+        "bottled facial cleanser"
+      ],
+      [
+        "giraffe"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:9045",
+    "image_id": "train:0001817",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001817.png",
+    "pixel_sha256": "fc95179908a36e7aefdc95031858dd04efd2ed67ac40447a526fe2e75c0641e4",
+    "scene": "shelf",
+    "text": "I hope to get the pink bottled baking soda toothpaste with a white handy pump at the top",
+    "boxes": [
+      [
+        241.0,
+        312.0,
+        262.0,
+        363.0
+      ],
+      [
+        248.0,
+        247.0,
+        264.0,
+        287.0
+      ],
+      [
+        278.0,
+        335.0,
+        294.0,
+        364.0
+      ],
+      [
+        326.0,
+        407.0,
+        343.0,
+        464.0
+      ],
+      [
+        334.0,
+        331.0,
+        351.0,
+        366.0
+      ]
+    ],
+    "target": 1,
+    "classes": [
+      [
+        "toothpaste"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "vitamin bottle"
+      ],
+      [
+        "bottled facial cleanser"
+      ],
+      [
+        "vitamin bottle"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:3045",
+    "image_id": "train:0000617",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0000617.png",
+    "pixel_sha256": "f7a9e8a8a290511a7505e803fafdf91a278a154dabcd3df0ba8c43e775238466",
+    "scene": "shelf",
+    "text": "fetch me the coconut juice on the middle shelf near the right",
+    "boxes": [
+      [
+        297.0,
+        180.0,
+        336.0,
+        271.0
+      ],
+      [
+        310.0,
+        9.0,
+        362.0,
+        90.0
+      ],
+      [
+        377.0,
+        210.0,
+        518.0,
+        256.0
+      ],
+      [
+        440.0,
+        0,
+        489.0,
+        75.0
+      ],
+      [
+        538.0,
+        144.0,
+        594.0,
+        237.0
+      ]
+    ],
+    "target": 4,
+    "classes": [
+      [
+        "juice"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "detergent"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "juice"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:5098",
+    "image_id": "train:0001028",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001028.png",
+    "pixel_sha256": "ec438df4b3bfecec82e6fd8a05f342dbd612ad2f2eb23ba6963c14f83bde14b7",
+    "scene": "shelf",
+    "text": "grasp the mouthwash in a white and green bottle on the middle shelf",
+    "boxes": [
+      [
+        174.0,
+        311.0,
+        206.0,
+        425.0
+      ],
+      [
+        205.0,
+        152.0,
+        233.0,
+        268.0
+      ],
+      [
+        250.0,
+        326.0,
+        299.0,
+        449.0
+      ],
+      [
+        306.0,
+        425.0,
+        358.0,
+        480
+      ],
+      [
+        342.0,
+        181.0,
+        390.0,
+        266.0
+      ]
+    ],
+    "target": 1,
+    "classes": [
+      [
+        "toothpaste box"
+      ],
+      [
+        "mouthwash"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "facial cleanser"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:6437",
+    "image_id": "train:0001295",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001295.png",
+    "pixel_sha256": "575858f80cd64a86bc400c82c2d151a5871f4746d29ab0de2b418883c5886653",
+    "scene": "shelf",
+    "text": "I need the cylindrical can of coca cola on the middle shelf near the left",
+    "boxes": [
+      [
+        189.0,
+        386.0,
+        220.0,
+        463.0
+      ],
+      [
+        240.0,
+        367.0,
+        294.0,
+        462.0
+      ],
+      [
+        264.0,
+        57.0,
+        299.0,
+        144.0
+      ],
+      [
+        272.0,
+        225.0,
+        313.0,
+        292.0
+      ],
+      [
+        304.0,
+        351.0,
+        384.0,
+        458.0
+      ]
+    ],
+    "target": 3,
+    "classes": [
+      [
+        "toothpaste"
+      ],
+      [
+        "rectangular box"
+      ],
+      [
+        "bottled facial cleanser"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "book"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": false
+  },
+  {
+    "id": "train:3266",
+    "image_id": "train:0000661",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0000661.png",
+    "pixel_sha256": "3a6de2849cf3a5d534840da88a5651394dc7618ea9140f22c06091f4c9a877d9",
+    "scene": "shelf",
+    "text": "hand me the canned coca cola on the bottom shelf near the left",
+    "boxes": [
+      [
+        115.0,
+        234.0,
+        258.0,
+        275.0
+      ],
+      [
+        122.0,
+        352.0,
+        158.0,
+        436.0
+      ],
+      [
+        217.0,
+        365.0,
+        259.0,
+        440.0
+      ],
+      [
+        299.0,
+        200.0,
+        339.0,
+        279.0
+      ],
+      [
+        305.0,
+        373.0,
+        346.0,
+        450.0
+      ]
+    ],
+    "target": 2,
+    "classes": [
+      [
+        "toothpaste box"
+      ],
+      [
+        "juice"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "juice"
+      ],
+      [
+        "cola"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:5346",
+    "image_id": "train:0001077",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001077.png",
+    "pixel_sha256": "944fcb0a78f0ad6a0fe855f5eb85be9a79db47f7785b58eb0a746c8045f36bda",
+    "scene": "shelf",
+    "text": "would you please pass me the large bottled laundry detergent at the bottom",
+    "boxes": [
+      [
+        235.0,
+        158.0,
+        279.0,
+        255.0
+      ],
+      [
+        235.0,
+        297.0,
+        266.0,
+        416.0
+      ],
+      [
+        258.0,
+        435.0,
+        339.0,
+        475.0
+      ],
+      [
+        371.0,
+        182.0,
+        399.0,
+        271.0
+      ],
+      [
+        471.0,
+        374.0,
+        502.0,
+        468.0
+      ]
+    ],
+    "target": 3,
+    "classes": [
+      [
+        "mouthwash"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "detergent"
+      ],
+      [
+        "facial wash"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:9313",
+    "image_id": "train:0001871",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001871.png",
+    "pixel_sha256": "c4aa105369948b8a87e019a54a7cec5cdbd424a81410c2d594b5c62a480db27b",
+    "scene": "shelf",
+    "text": "grasp the white conical bottled shampoo on the middle shelf",
+    "boxes": [
+      [
+        122.0,
+        381.0,
+        142.0,
+        419.0
+      ],
+      [
+        188.0,
+        233.0,
+        217.0,
+        248.0
+      ],
+      [
+        198.0,
+        367.0,
+        214.0,
+        420.0
+      ],
+      [
+        224.0,
+        215.0,
+        242.0,
+        248.0
+      ],
+      [
+        230.0,
+        267.0,
+        255.0,
+        326.0
+      ]
+    ],
+    "target": 4,
+    "classes": [
+      [
+        "vitamin bottle"
+      ],
+      [
+        "vitamin bottle"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "vitamin bottle"
+      ],
+      [
+        "shampoo"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:7131",
+    "image_id": "train:0001434",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001434.png",
+    "pixel_sha256": "c1413b57e0b01d86014770d44fb499180b80a2f46be5fe9eb0916e1ee36d20b1",
+    "scene": "shelf",
+    "text": "grab the silvery and red bottled facial cleanser on the middle shelf near the right",
+    "boxes": [
+      [
+        183.0,
+        364.0,
+        222.0,
+        472.0
+      ],
+      [
+        274.0,
+        206.0,
+        318.0,
+        284.0
+      ],
+      [
+        284.0,
+        346.0,
+        332.0,
+        468.0
+      ],
+      [
+        344.0,
+        216.0,
+        378.0,
+        281.0
+      ],
+      [
+        398.0,
+        199.0,
+        444.0,
+        282.0
+      ]
+    ],
+    "target": 4,
+    "classes": [
+      [
+        "shampoo"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "facial cleanser"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:5223",
+    "image_id": "train:0001053",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001053.png",
+    "pixel_sha256": "69e4b9579e53849c099f6d516be958ef2a73dd59ea8cc73468cfb6d31b3225b8",
+    "scene": "shelf",
+    "text": "please bring me the white and green bottled mouthwash on the middle shelf",
+    "boxes": [
+      [
+        114.0,
+        347.0,
+        162.0,
+        452.0
+      ],
+      [
+        119.0,
+        100.0,
+        160.0,
+        165.0
+      ],
+      [
+        190.0,
+        392.0,
+        233.0,
+        479.0
+      ],
+      [
+        251.0,
+        106.0,
+        292.0,
+        169.0
+      ],
+      [
+        349.0,
+        229.0,
+        379.0,
+        314.0
+      ]
+    ],
+    "target": 4,
+    "classes": [
+      [
+        "detergent"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "facial wash"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "mouthwash"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:6510",
+    "image_id": "train:0001310",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001310.png",
+    "pixel_sha256": "05555a6dc376e161e0ebf84c1995bf0b8c6e909723b08bd93cbd45e94171aaaf",
+    "scene": "shelf",
+    "text": "could you pass me the large white and orange rectangular box on the middle shelf",
+    "boxes": [
+      [
+        159.0,
+        312.0,
+        188.0,
+        399.0
+      ],
+      [
+        255.0,
+        334.0,
+        290.0,
+        401.0
+      ],
+      [
+        273.0,
+        160.0,
+        328.0,
+        247.0
+      ],
+      [
+        364.0,
+        359.0,
+        409.0,
+        421.0
+      ],
+      [
+        385.0,
+        214.0,
+        413.0,
+        256.0
+      ]
+    ],
+    "target": 4,
+    "classes": [
+      [
+        "bottled facial cleanser"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "book"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "rectangular box"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": false
+  },
+  {
+    "id": "train:3150",
+    "image_id": "train:0000638",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0000638.png",
+    "pixel_sha256": "ab94b41aeac653d753e2f3a036eb9eba9fd95cb4a2c8f7518f804363bd1eb430",
+    "scene": "shelf",
+    "text": "would you fetch me the coconut juice in a black and yellow square box on the middle shelf near the right",
+    "boxes": [
+      [
+        159.0,
+        64.0,
+        216.0,
+        140.0
+      ],
+      [
+        214.0,
+        406.0,
+        261.0,
+        480
+      ],
+      [
+        274.0,
+        195.0,
+        327.0,
+        283.0
+      ],
+      [
+        275.0,
+        46.0,
+        328.0,
+        118.0
+      ],
+      [
+        291.0,
+        306.0,
+        369.0,
+        465.0
+      ]
+    ],
+    "target": 1,
+    "classes": [
+      [
+        "cola"
+      ],
+      [
+        "juice"
+      ],
+      [
+        "juice"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "toothpaste box"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:4487",
+    "image_id": "train:0000905",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0000905.png",
+    "pixel_sha256": "27022ebf5226e337fece229a633b4cdb0888ce7e5c2c5f8fc41a3fe7f74da193",
+    "scene": "shelf",
+    "text": "I want to grab the large cylindrical bottled shampoo on the bottom shelf",
+    "boxes": [
+      [
+        234.0,
+        264.0,
+        356.0,
+        300.0
+      ],
+      [
+        246.0,
+        357.0,
+        277.0,
+        460.0
+      ],
+      [
+        347.0,
+        88.0,
+        376.0,
+        141.0
+      ],
+      [
+        368.0,
+        381.0,
+        395.0,
+        479.0
+      ],
+      [
+        372.0,
+        207.0,
+        419.0,
+        302.0
+      ]
+    ],
+    "target": 1,
+    "classes": [
+      [
+        "toothpaste box"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "rectangular box"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:4321",
+    "image_id": "train:0000872",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0000872.png",
+    "pixel_sha256": "01bfede87e90e29f47b7edcc90ada4215b54948538034d882aa3f0f88a9aa5ee",
+    "scene": "shelf",
+    "text": "can you give me the small blue cuboid box on the middle shelf",
+    "boxes": [
+      [
+        296.0,
+        365.0,
+        350.0,
+        475.0
+      ],
+      [
+        300.0,
+        156.0,
+        340.0,
+        268.0
+      ],
+      [
+        401.0,
+        337.0,
+        457.0,
+        455.0
+      ],
+      [
+        421.0,
+        218.0,
+        464.0,
+        253.0
+      ],
+      [
+        520.0,
+        332.0,
+        561.0,
+        439.0
+      ]
+    ],
+    "target": 3,
+    "classes": [
+      [
+        "body lotion"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "rectangular box"
+      ],
+      [
+        "toothpaste box"
+      ],
+      [
+        "body lotion"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:5370",
+    "image_id": "train:0001082",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001082.png",
+    "pixel_sha256": "09788b35bdbe20bf282aeac78bca88955c988b623b48577181bde235e30b9989",
+    "scene": "shelf",
+    "text": "give me the silvery and red bottled facial cleanser on the bottom right shelf",
+    "boxes": [
+      [
+        232.0,
+        192.0,
+        276.0,
+        270.0
+      ],
+      [
+        270.0,
+        312.0,
+        320.0,
+        419.0
+      ],
+      [
+        310.0,
+        167.0,
+        349.0,
+        247.0
+      ],
+      [
+        399.0,
+        324.0,
+        448.0,
+        414.0
+      ],
+      [
+        459.0,
+        308.0,
+        508.0,
+        406.0
+      ]
+    ],
+    "target": 4,
+    "classes": [
+      [
+        "mouthwash"
+      ],
+      [
+        "detergent"
+      ],
+      [
+        "facial wash"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "facial cleanser"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:8565",
+    "image_id": "train:0001721",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001721.png",
+    "pixel_sha256": "09fbf07ebcda0caaa0148bf64e01abfab749d632500cf2f975fc6469cd57eede",
+    "scene": "shelf",
+    "text": "I want to grab the pink bottled baking soda toothpaste with a white handy pump on the middle shelf",
+    "boxes": [
+      [
+        267.0,
+        320.0,
+        288.0,
+        361.0
+      ],
+      [
+        297.0,
+        321.0,
+        318.0,
+        355.0
+      ],
+      [
+        322.0,
+        108.0,
+        348.0,
+        163.0
+      ],
+      [
+        331.0,
+        293.0,
+        355.0,
+        349.0
+      ],
+      [
+        351.0,
+        204.0,
+        368.0,
+        245.0
+      ]
+    ],
+    "target": 4,
+    "classes": [
+      [
+        "vitamin bottle"
+      ],
+      [
+        "vitamin bottle"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "bottled facial cleanser"
+      ],
+      [
+        "toothpaste"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:7230",
+    "image_id": "train:0001454",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001454.png",
+    "pixel_sha256": "359de2101b9d2103bd3b7e3212b46fc41a1231a006a555e50e73468df7065273",
+    "scene": "shelf",
+    "text": "I would like to get the facial cleanser in a silvery and red conical bottled on the middle shelf",
+    "boxes": [
+      [
+        421.0,
+        178.0,
+        463.0,
+        241.0
+      ],
+      [
+        446.0,
+        312.0,
+        482.0,
+        417.0
+      ],
+      [
+        478.0,
+        160.0,
+        518.0,
+        234.0
+      ],
+      [
+        496.0,
+        346.0,
+        569.0,
+        424.0
+      ],
+      [
+        595.0,
+        352.0,
+        640,
+        417.0
+      ]
+    ],
+    "target": 2,
+    "classes": [
+      [
+        "cola"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "facial cleanser"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:2639",
+    "image_id": "train:0000536",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0000536.png",
+    "pixel_sha256": "4f40cb82e544da8215b5bb07d997bf0e26365b426b0545af9f4dc6857992909d",
+    "scene": "shelf",
+    "text": "could you please bring me the pepsi cola on the top shelf near the left",
+    "boxes": [
+      [
+        223.0,
+        238.0,
+        264.0,
+        304.0
+      ],
+      [
+        252.0,
+        95.0,
+        289.0,
+        157.0
+      ],
+      [
+        303.0,
+        181.0,
+        355.0,
+        297.0
+      ],
+      [
+        358.0,
+        75.0,
+        397.0,
+        140.0
+      ],
+      [
+        399.0,
+        217.0,
+        443.0,
+        287.0
+      ]
+    ],
+    "target": 1,
+    "classes": [
+      [
+        "cola"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "detergent"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "cola"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:3034",
+    "image_id": "train:0000615",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0000615.png",
+    "pixel_sha256": "f8edf3cb4690aad27a2bbda0af61ca55fc55d0a0484658ba95922082f44d6ee6",
+    "scene": "shelf",
+    "text": "would you give me the coconut juice in a black and yellow square box on the middle shelf near the left",
+    "boxes": [
+      [
+        76.0,
+        176.0,
+        120.0,
+        276.0
+      ],
+      [
+        117.0,
+        0,
+        169.0,
+        84.0
+      ],
+      [
+        167.0,
+        238.0,
+        311.0,
+        272.0
+      ],
+      [
+        260.0,
+        13.0,
+        307.0,
+        94.0
+      ],
+      [
+        342.0,
+        183.0,
+        392.0,
+        274.0
+      ]
+    ],
+    "target": 0,
+    "classes": [
+      [
+        "juice"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "detergent"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "juice"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:7371",
+    "image_id": "train:0001482",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001482.png",
+    "pixel_sha256": "348fa7753780e826deb8f6aef419668c0f685afc21d5f2834bb1005956098f5b",
+    "scene": "shelf",
+    "text": "I hope to grasp the silvery and red bottled facial cleanser on the middle shelf near the right",
+    "boxes": [
+      [
+        154.0,
+        344.0,
+        196.0,
+        411.0
+      ],
+      [
+        220.0,
+        325.0,
+        270.0,
+        413.0
+      ],
+      [
+        232.0,
+        181.0,
+        274.0,
+        256.0
+      ],
+      [
+        295.0,
+        127.0,
+        331.0,
+        255.0
+      ],
+      [
+        379.0,
+        232.0,
+        437.0,
+        260.0
+      ]
+    ],
+    "target": 4,
+    "classes": [
+      [
+        "yogurt"
+      ],
+      [
+        "giraffe"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "toothpaste box"
+      ],
+      [
+        "facial cleanser"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:7487",
+    "image_id": "train:0001505",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001505.png",
+    "pixel_sha256": "1720226318dfb1b9ec2162e458f90d09dbb588d5763f95870b3baae94b332274",
+    "scene": "shelf",
+    "text": "I want to grasp the oat yogurt on the middle shelf near the left",
+    "boxes": [
+      [
+        280.0,
+        358.0,
+        333.0,
+        455.0
+      ],
+      [
+        381.0,
+        176.0,
+        427.0,
+        249.0
+      ],
+      [
+        395.0,
+        344.0,
+        447.0,
+        441.0
+      ],
+      [
+        518.0,
+        149.0,
+        560.0,
+        229.0
+      ],
+      [
+        530.0,
+        335.0,
+        640,
+        398.0
+      ]
+    ],
+    "target": 1,
+    "classes": [
+      [
+        "facial cleanser"
+      ],
+      [
+        "yogurt"
+      ],
+      [
+        "giraffe"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "toothpaste box"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:8337",
+    "image_id": "train:0001675",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001675.png",
+    "pixel_sha256": "5b41fc32c9adcfa9fae024487b60b92e8703121f8be4cc11a47dec909e2157b3",
+    "scene": "shelf",
+    "text": "will you please give me the dabao body lotion on the middle shelf near the right",
+    "boxes": [
+      [
+        336.0,
+        321.0,
+        354.0,
+        375.0
+      ],
+      [
+        411.0,
+        334.0,
+        433.0,
+        383.0
+      ],
+      [
+        456.0,
+        235.0,
+        476.0,
+        284.0
+      ],
+      [
+        471.0,
+        327.0,
+        496.0,
+        389.0
+      ],
+      [
+        503.0,
+        236.0,
+        523.0,
+        285.0
+      ]
+    ],
+    "target": 4,
+    "classes": [
+      [
+        "bottled facial cleanser"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "body lotion"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:5915",
+    "image_id": "train:0001191",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001191.png",
+    "pixel_sha256": "5ed5f76d463bdceba0b482a7ee2d20ac58b9eb387cf6fc6f2f3fe49974566941",
+    "scene": "shelf",
+    "text": "I want the white and green bottled laundry detergent on the middle shelf",
+    "boxes": [
+      [
+        389.0,
+        242.0,
+        476.0,
+        282.0
+      ],
+      [
+        397.0,
+        353.0,
+        438.0,
+        446.0
+      ],
+      [
+        481.0,
+        178.0,
+        519.0,
+        275.0
+      ],
+      [
+        497.0,
+        22.0,
+        525.0,
+        112.0
+      ],
+      [
+        567.0,
+        145.0,
+        632.0,
+        278.0
+      ]
+    ],
+    "target": 4,
+    "classes": [
+      [
+        "facial wash"
+      ],
+      [
+        "facial wash"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "detergent"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:4335",
+    "image_id": "train:0000875",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0000875.png",
+    "pixel_sha256": "d9f5a68996c4217f1b205b6a81af4fa45ce4b60b7d551538ed103648614e9eef",
+    "scene": "shelf",
+    "text": "get the body milk with a red bottle cap on the bottom shelf near the right",
+    "boxes": [
+      [
+        202.0,
+        356.0,
+        249.0,
+        469.0
+      ],
+      [
+        252.0,
+        151.0,
+        288.0,
+        264.0
+      ],
+      [
+        314.0,
+        347.0,
+        359.0,
+        465.0
+      ],
+      [
+        366.0,
+        240.0,
+        398.0,
+        274.0
+      ],
+      [
+        422.0,
+        364.0,
+        453.0,
+        469.0
+      ]
+    ],
+    "target": 4,
+    "classes": [
+      [
+        "body lotion"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "rectangular box"
+      ],
+      [
+        "pill box"
+      ],
+      [
+        "body lotion"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:6494",
+    "image_id": "train:0001307",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001307.png",
+    "pixel_sha256": "ce2c5e58e3b1c4579d0179cc977dd55f9fc0e2834c36670448205bc6c1880f85",
+    "scene": "shelf",
+    "text": "I need to grasp the press type pink bottled baking soda toothpaste on the middle shelf",
+    "boxes": [
+      [
+        113.0,
+        399.0,
+        156.0,
+        473.0
+      ],
+      [
+        202.0,
+        368.0,
+        236.0,
+        463.0
+      ],
+      [
+        236.0,
+        261.0,
+        316.0,
+        306.0
+      ],
+      [
+        368.0,
+        217.0,
+        394.0,
+        290.0
+      ],
+      [
+        384.0,
+        384.0,
+        438.0,
+        436.0
+      ]
+    ],
+    "target": 3,
+    "classes": [
+      [
+        "cola"
+      ],
+      [
+        "bottled facial cleanser"
+      ],
+      [
+        "book"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "rectangular box"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": false
+  },
+  {
+    "id": "train:3145",
+    "image_id": "train:0000637",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0000637.png",
+    "pixel_sha256": "59177c5e51f94ead8c0dbb8de5e1ed7299f1993ee5edccfd2234ebcdd9b43f47",
+    "scene": "shelf",
+    "text": "would you give me the coconut juice on the middle shelf near the right",
+    "boxes": [
+      [
+        299.0,
+        17.0,
+        350.0,
+        93.0
+      ],
+      [
+        304.0,
+        363.0,
+        340.0,
+        464.0
+      ],
+      [
+        393.0,
+        168.0,
+        436.0,
+        254.0
+      ],
+      [
+        393.0,
+        283.0,
+        449.0,
+        444.0
+      ],
+      [
+        423.0,
+        12.0,
+        468.0,
+        85.0
+      ]
+    ],
+    "target": 2,
+    "classes": [
+      [
+        "cola"
+      ],
+      [
+        "juice"
+      ],
+      [
+        "juice"
+      ],
+      [
+        "toothpaste box"
+      ],
+      [
+        "cola"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:4392",
+    "image_id": "train:0000886",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0000886.png",
+    "pixel_sha256": "47a1e392ec0d4d2e1d22fd14a86edb9011cd096dd9a94b99a360a37192da5811",
+    "scene": "shelf",
+    "text": "could you please pass me the white cylindroid bottled shampoo on the middle shelf",
+    "boxes": [
+      [
+        278.0,
+        411.0,
+        362.0,
+        480
+      ],
+      [
+        292.0,
+        168.0,
+        337.0,
+        282.0
+      ],
+      [
+        388.0,
+        348.0,
+        434.0,
+        445.0
+      ],
+      [
+        390.0,
+        170.0,
+        443.0,
+        271.0
+      ],
+      [
+        400.0,
+        427.0,
+        543.0,
+        480
+      ]
+    ],
+    "target": 1,
+    "classes": [
+      [
+        "rectangular box"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "toothpaste box"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:2982",
+    "image_id": "train:0000604",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0000604.png",
+    "pixel_sha256": "8f7a1044f1af9eaf332310b997b082532a86d81b126ef0bdfcc2ec76b7175dfb",
+    "scene": "shelf",
+    "text": "could you fetch me the red can of coca cola at the bottom",
+    "boxes": [
+      [
+        210.0,
+        314.0,
+        287.0,
+        466.0
+      ],
+      [
+        221.0,
+        156.0,
+        276.0,
+        249.0
+      ],
+      [
+        319.0,
+        192.0,
+        373.0,
+        273.0
+      ],
+      [
+        337.0,
+        394.0,
+        398.0,
+        480
+      ],
+      [
+        419.0,
+        208.0,
+        481.0,
+        300.0
+      ]
+    ],
+    "target": 3,
+    "classes": [
+      [
+        "detergent"
+      ],
+      [
+        "juice"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "juice"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:8318",
+    "image_id": "train:0001672",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001672.png",
+    "pixel_sha256": "3a02256e4aae4b23df6c1a3b6fefe3892592892758655640cb2f402ecc97115f",
+    "scene": "shelf",
+    "text": "grasp the large white cylindrical bottle on the bottom shelf",
+    "boxes": [
+      [
+        152.0,
+        334.0,
+        171.0,
+        388.0
+      ],
+      [
+        226.0,
+        345.0,
+        246.0,
+        390.0
+      ],
+      [
+        268.0,
+        251.0,
+        287.0,
+        297.0
+      ],
+      [
+        280.0,
+        337.0,
+        304.0,
+        394.0
+      ],
+      [
+        311.0,
+        255.0,
+        327.0,
+        298.0
+      ]
+    ],
+    "target": 0,
+    "classes": [
+      [
+        "bottled facial cleanser"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "body lotion"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:7395",
+    "image_id": "train:0001487",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001487.png",
+    "pixel_sha256": "d6399328eab88f3b770c5a8f5ebdb246453c4af347ed47a2b3c3d900c0609507",
+    "scene": "shelf",
+    "text": "could you please bring me the silvery and red bottled facial cleanser on the middle shelf near the left",
+    "boxes": [
+      [
+        214.0,
+        392.0,
+        262.0,
+        472.0
+      ],
+      [
+        288.0,
+        369.0,
+        349.0,
+        470.0
+      ],
+      [
+        296.0,
+        203.0,
+        342.0,
+        288.0
+      ],
+      [
+        367.0,
+        141.0,
+        401.0,
+        285.0
+      ],
+      [
+        462.0,
+        251.0,
+        538.0,
+        284.0
+      ]
+    ],
+    "target": 2,
+    "classes": [
+      [
+        "yogurt"
+      ],
+      [
+        "giraffe"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "toothpaste box"
+      ],
+      [
+        "facial cleanser"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:5029",
+    "image_id": "train:0001014",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001014.png",
+    "pixel_sha256": "7be5418ddd93c0a7b73233c5dbe7aa0366e25580a72108faf92b4eaf64b7ea92",
+    "scene": "shelf",
+    "text": "would you please fetch me the facial cleanser on the bottom left shelf",
+    "boxes": [
+      [
+        175.0,
+        344.0,
+        204.0,
+        425.0
+      ],
+      [
+        209.0,
+        142.0,
+        251.0,
+        243.0
+      ],
+      [
+        239.0,
+        380.0,
+        357.0,
+        424.0
+      ],
+      [
+        249.0,
+        319.0,
+        291.0,
+        387.0
+      ],
+      [
+        328.0,
+        197.0,
+        432.0,
+        241.0
+      ]
+    ],
+    "target": 0,
+    "classes": [
+      [
+        "facial cleanser"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "pill box"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "mouthwash"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:8461",
+    "image_id": "train:0001700",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001700.png",
+    "pixel_sha256": "9e7d18c0661d66b5a94c8f99bacd46091d4904f1a733c1e0033be9df3696f506",
+    "scene": "shelf",
+    "text": "I need to grab the dabao body lotion on the middle shelf",
+    "boxes": [
+      [
+        278.0,
+        121.0,
+        304.0,
+        177.0
+      ],
+      [
+        288.0,
+        307.0,
+        314.0,
+        366.0
+      ],
+      [
+        322.0,
+        127.0,
+        342.0,
+        171.0
+      ],
+      [
+        336.0,
+        203.0,
+        357.0,
+        256.0
+      ],
+      [
+        411.0,
+        290.0,
+        436.0,
+        342.0
+      ]
+    ],
+    "target": 3,
+    "classes": [
+      [
+        "toothpaste"
+      ],
+      [
+        "bottled facial cleanser"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "body lotion"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:7284",
+    "image_id": "train:0001465",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001465.png",
+    "pixel_sha256": "daf27a843021ecbff096280faf3af85d16a75a5e52b4d5f5956d940af7ebb068",
+    "scene": "shelf",
+    "text": "can you find the cylindroid haifeisi shampoo at the bottom",
+    "boxes": [
+      [
+        144.0,
+        341.0,
+        184.0,
+        409.0
+      ],
+      [
+        267.0,
+        153.0,
+        310.0,
+        257.0
+      ],
+      [
+        277.0,
+        382.0,
+        325.0,
+        417.0
+      ],
+      [
+        338.0,
+        369.0,
+        432.0,
+        424.0
+      ],
+      [
+        345.0,
+        184.0,
+        368.0,
+        256.0
+      ]
+    ],
+    "target": 3,
+    "classes": [
+      [
+        "cola"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "facial cleanser"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:7143",
+    "image_id": "train:0001437",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001437.png",
+    "pixel_sha256": "97093ea7fd69756de8c306c11177e3b76a224b01fff6304053dd9033d2d4e163",
+    "scene": "shelf",
+    "text": "can you find the shampoo at the bottom near the right",
+    "boxes": [
+      [
+        199.0,
+        380.0,
+        254.0,
+        480
+      ],
+      [
+        258.0,
+        192.0,
+        310.0,
+        279.0
+      ],
+      [
+        302.0,
+        336.0,
+        368.0,
+        471.0
+      ],
+      [
+        334.0,
+        195.0,
+        376.0,
+        265.0
+      ],
+      [
+        392.0,
+        164.0,
+        446.0,
+        253.0
+      ]
+    ],
+    "target": 2,
+    "classes": [
+      [
+        "shampoo"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "facial cleanser"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:6487",
+    "image_id": "train:0001305",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001305.png",
+    "pixel_sha256": "5c6f9adb7b63e79b2ee2844cf81ddc6a4b71de5ed4a9b7b3c038988deb7f5cba",
+    "scene": "shelf",
+    "text": "could you give me the cylindrical can of coca cola on the bottom left shelf",
+    "boxes": [
+      [
+        216.0,
+        378.0,
+        266.0,
+        464.0
+      ],
+      [
+        312.0,
+        336.0,
+        356.0,
+        443.0
+      ],
+      [
+        355.0,
+        212.0,
+        434.0,
+        253.0
+      ],
+      [
+        478.0,
+        161.0,
+        505.0,
+        238.0
+      ],
+      [
+        505.0,
+        347.0,
+        565.0,
+        390.0
+      ]
+    ],
+    "target": 0,
+    "classes": [
+      [
+        "cola"
+      ],
+      [
+        "bottled facial cleanser"
+      ],
+      [
+        "book"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "rectangular box"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": false
+  },
+  {
+    "id": "train:9454",
+    "image_id": "train:0001899",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001899.png",
+    "pixel_sha256": "9ce591dfa8d9d0ad1b5e156112ceb8e4f9fc7bb0a9de7cc926b63f23fe0e82f9",
+    "scene": "shelf",
+    "text": "would you please fetch me the large bottled shampoo at the bottom",
+    "boxes": [
+      [
+        104.0,
+        307.0,
+        120.0,
+        369.0
+      ],
+      [
+        167.0,
+        219.0,
+        186.0,
+        258.0
+      ],
+      [
+        167.0,
+        327.0,
+        187.0,
+        364.0
+      ],
+      [
+        195.0,
+        219.0,
+        214.0,
+        258.0
+      ],
+      [
+        237.0,
+        293.0,
+        260.0,
+        361.0
+      ]
+    ],
+    "target": 4,
+    "classes": [
+      [
+        "shampoo"
+      ],
+      [
+        "vitamin bottle"
+      ],
+      [
+        "vitamin bottle"
+      ],
+      [
+        "vitamin bottle"
+      ],
+      [
+        "shampoo"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:3392",
+    "image_id": "train:0000686",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0000686.png",
+    "pixel_sha256": "b682c5a2e6c82750c89870c2d40270d1103fc7c86a1ae2089fcc84f8e7b4b16d",
+    "scene": "shelf",
+    "text": "I want to pick up the can of coca cola on the bottom shelf near the left",
+    "boxes": [
+      [
+        203.0,
+        264.0,
+        252.0,
+        304.0
+      ],
+      [
+        233.0,
+        105.0,
+        383.0,
+        152.0
+      ],
+      [
+        258.0,
+        405.0,
+        308.0,
+        480
+      ],
+      [
+        284.0,
+        257.0,
+        327.0,
+        300.0
+      ],
+      [
+        378.0,
+        209.0,
+        411.0,
+        295.0
+      ]
+    ],
+    "target": 2,
+    "classes": [
+      [
+        "square box"
+      ],
+      [
+        "toothpaste box"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "square box"
+      ],
+      [
+        "juice"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:7863",
+    "image_id": "train:0001581",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001581.png",
+    "pixel_sha256": "a4c264b7fb3586524015b7d6e33fc3af4bd30c5e89ba1b175b12052a1a2ab831",
+    "scene": "shelf",
+    "text": "I hope to grab the mouthwash at the bottom",
+    "boxes": [
+      [
+        221.0,
+        329.0,
+        247.0,
+        371.0
+      ],
+      [
+        292.0,
+        312.0,
+        318.0,
+        370.0
+      ],
+      [
+        311.0,
+        241.0,
+        333.0,
+        275.0
+      ],
+      [
+        360.0,
+        226.0,
+        378.0,
+        278.0
+      ],
+      [
+        367.0,
+        335.0,
+        408.0,
+        374.0
+      ]
+    ],
+    "target": 1,
+    "classes": [
+      [
+        "yogurt"
+      ],
+      [
+        "mouthwash"
+      ],
+      [
+        "yogurt"
+      ],
+      [
+        "bottled facial cleanser"
+      ],
+      [
+        "giraffe"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:8855",
+    "image_id": "train:0001779",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001779.png",
+    "pixel_sha256": "84ee961b8a10ab099e5063088c2f04a30e096ee3af9e17ecab344569851dfa47",
+    "scene": "shelf",
+    "text": "I want the pink bottled baking soda toothpaste on the top shelf",
+    "boxes": [
+      [
+        186.0,
+        344.0,
+        215.0,
+        401.0
+      ],
+      [
+        239.0,
+        146.0,
+        263.0,
+        192.0
+      ],
+      [
+        289.0,
+        233.0,
+        313.0,
+        268.0
+      ],
+      [
+        328.0,
+        215.0,
+        356.0,
+        255.0
+      ],
+      [
+        345.0,
+        297.0,
+        377.0,
+        356.0
+      ]
+    ],
+    "target": 1,
+    "classes": [
+      [
+        "toothpaste"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "vitamin bottle"
+      ],
+      [
+        "vitamin bottle"
+      ],
+      [
+        "bottled facial cleanser"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:4258",
+    "image_id": "train:0000860",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0000860.png",
+    "pixel_sha256": "4c8d636b95c47e13fbf8c3d971212982bd299f012fb79889dd521ca1de569ca5",
+    "scene": "shelf",
+    "text": "I want to grasp the rectangular box with JVR on the middle shelf",
+    "boxes": [
+      [
+        88.0,
+        199.0,
+        137.0,
+        289.0
+      ],
+      [
+        172.0,
+        238.0,
+        238.0,
+        284.0
+      ],
+      [
+        221.0,
+        403.0,
+        335.0,
+        467.0
+      ],
+      [
+        271.0,
+        187.0,
+        315.0,
+        274.0
+      ],
+      [
+        356.0,
+        171.0,
+        387.0,
+        267.0
+      ]
+    ],
+    "target": 1,
+    "classes": [
+      [
+        "body lotion"
+      ],
+      [
+        "rectangular box"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "shampoo"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:4481",
+    "image_id": "train:0000904",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0000904.png",
+    "pixel_sha256": "8fbeaa351e068a0c5c0a1d7fce94710a65ef308484913bb75fdede1c78e9c322",
+    "scene": "shelf",
+    "text": "would you please pass me the small toothpaste box on the middle shelf",
+    "boxes": [
+      [
+        278.0,
+        238.0,
+        392.0,
+        273.0
+      ],
+      [
+        310.0,
+        330.0,
+        343.0,
+        423.0
+      ],
+      [
+        354.0,
+        61.0,
+        389.0,
+        114.0
+      ],
+      [
+        407.0,
+        170.0,
+        453.0,
+        261.0
+      ],
+      [
+        430.0,
+        336.0,
+        456.0,
+        429.0
+      ]
+    ],
+    "target": 0,
+    "classes": [
+      [
+        "pill box"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "rectangular box"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "body lotion"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:6072",
+    "image_id": "train:0001222",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001222.png",
+    "pixel_sha256": "da4f5044106fea8e0a9377671689521275d6be0b8a396ee468e75cd163edbcbe",
+    "scene": "shelf",
+    "text": "please give me the press type facial wash on the bottom shelf",
+    "boxes": [
+      [
+        156.0,
+        329.0,
+        194.0,
+        406.0
+      ],
+      [
+        235.0,
+        27.0,
+        271.0,
+        115.0
+      ],
+      [
+        276.0,
+        144.0,
+        325.0,
+        256.0
+      ],
+      [
+        297.0,
+        317.0,
+        336.0,
+        409.0
+      ],
+      [
+        304.0,
+        38.0,
+        330.0,
+        115.0
+      ]
+    ],
+    "target": 0,
+    "classes": [
+      [
+        "facial wash"
+      ],
+      [
+        "facial wash"
+      ],
+      [
+        "detergent"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "toothpaste"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:8094",
+    "image_id": "train:0001627",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001627.png",
+    "pixel_sha256": "abf28d42e3aab5edcb516c9641236b1ed350d6ca82c1588fa65900039c42d80a",
+    "scene": "shelf",
+    "text": "fetch me the brown giraffe toy at the top",
+    "boxes": [
+      [
+        299.0,
+        332.0,
+        320.0,
+        372.0
+      ],
+      [
+        329.0,
+        158.0,
+        365.0,
+        204.0
+      ],
+      [
+        349.0,
+        231.0,
+        369.0,
+        278.0
+      ],
+      [
+        383.0,
+        331.0,
+        406.0,
+        372.0
+      ],
+      [
+        393.0,
+        229.0,
+        410.0,
+        278.0
+      ]
+    ],
+    "target": 1,
+    "classes": [
+      [
+        "yogurt"
+      ],
+      [
+        "giraffe"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "yogurt"
+      ],
+      [
+        "bottled facial cleanser"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:2898",
+    "image_id": "train:0000588",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0000588.png",
+    "pixel_sha256": "9631b526a9f102394aa01e2b4ff89d02451bb0fce2b72ee8e814bf6bae893706",
+    "scene": "shelf",
+    "text": "please give me the press type laundry detergent on the middle shelf",
+    "boxes": [
+      [
+        42.0,
+        220.0,
+        83.0,
+        285.0
+      ],
+      [
+        87.0,
+        379.0,
+        130.0,
+        464.0
+      ],
+      [
+        121.0,
+        214.0,
+        162.0,
+        289.0
+      ],
+      [
+        163.0,
+        393.0,
+        208.0,
+        473.0
+      ],
+      [
+        169.0,
+        261.0,
+        295.0,
+        293.0
+      ]
+    ],
+    "target": 4,
+    "classes": [
+      [
+        "cola"
+      ],
+      [
+        "juice"
+      ],
+      [
+        "juice"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "detergent"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:4395",
+    "image_id": "train:0000887",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0000887.png",
+    "pixel_sha256": "83f6e24bf68bfe64c3e64c507c54ea8bcda473306139e7a61ce9aed3cee4b70b",
+    "scene": "shelf",
+    "text": "please hand me the white bottled body milk at the bottom",
+    "boxes": [
+      [
+        283.0,
+        155.0,
+        342.0,
+        272.0
+      ],
+      [
+        323.0,
+        394.0,
+        407.0,
+        479.0
+      ],
+      [
+        390.0,
+        141.0,
+        451.0,
+        243.0
+      ],
+      [
+        423.0,
+        321.0,
+        477.0,
+        414.0
+      ],
+      [
+        446.0,
+        374.0,
+        592.0,
+        456.0
+      ]
+    ],
+    "target": 3,
+    "classes": [
+      [
+        "shampoo"
+      ],
+      [
+        "rectangular box"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "toothpaste box"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:6978",
+    "image_id": "train:0001404",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001404.png",
+    "pixel_sha256": "bd334a9df1a44f04ce704eb4850117e9fc5bdf38b7799ba119b92868b3af16a0",
+    "scene": "shelf",
+    "text": "please fetch me the white bottled facial cleanser on the middle shelf",
+    "boxes": [
+      [
+        229.0,
+        208.0,
+        269.0,
+        274.0
+      ],
+      [
+        303.0,
+        201.0,
+        343.0,
+        268.0
+      ],
+      [
+        304.0,
+        359.0,
+        345.0,
+        432.0
+      ],
+      [
+        393.0,
+        189.0,
+        438.0,
+        260.0
+      ],
+      [
+        463.0,
+        157.0,
+        501.0,
+        250.0
+      ]
+    ],
+    "target": 4,
+    "classes": [
+      [
+        "cola"
+      ],
+      [
+        "yogurt"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "yogurt"
+      ],
+      [
+        "bottled facial cleanser"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:2555",
+    "image_id": "train:0000519",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0000519.png",
+    "pixel_sha256": "e42e2818202d2896fff5da1af7c8e22ece438ec81411dd9e1c4e5cca49796613",
+    "scene": "shelf",
+    "text": "would you please fetch me the canned pepsi cola on the middle shelf",
+    "boxes": [
+      [
+        196.0,
+        228.0,
+        242.0,
+        292.0
+      ],
+      [
+        255.0,
+        329.0,
+        330.0,
+        454.0
+      ],
+      [
+        273.0,
+        57.0,
+        315.0,
+        121.0
+      ],
+      [
+        280.0,
+        202.0,
+        329.0,
+        271.0
+      ],
+      [
+        368.0,
+        180.0,
+        418.0,
+        250.0
+      ]
+    ],
+    "target": 3,
+    "classes": [
+      [
+        "cola"
+      ],
+      [
+        "detergent"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "cola"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:6767",
+    "image_id": "train:0001361",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001361.png",
+    "pixel_sha256": "3e953da093785987cb3a740424f652ee02b2ebe424846d6f4dde0fbe0878b2ef",
+    "scene": "shelf",
+    "text": "could you give me the coca cola can on the top shelf",
+    "boxes": [
+      [
+        237.0,
+        332.0,
+        273.0,
+        412.0
+      ],
+      [
+        258.0,
+        237.0,
+        333.0,
+        268.0
+      ],
+      [
+        293.0,
+        335.0,
+        329.0,
+        417.0
+      ],
+      [
+        304.0,
+        55.0,
+        343.0,
+        121.0
+      ],
+      [
+        349.0,
+        178.0,
+        402.0,
+        266.0
+      ]
+    ],
+    "target": 3,
+    "classes": [
+      [
+        "body lotion"
+      ],
+      [
+        "bottled facial cleanser"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "book"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:4372",
+    "image_id": "train:0000882",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0000882.png",
+    "pixel_sha256": "41554e06695b98fd893540e67eed49c7f73eafa5ed57e97e4edb24ee4b01c21d",
+    "scene": "shelf",
+    "text": "pass me the large bottled shampoo on the middle shelf",
+    "boxes": [
+      [
+        176.0,
+        372.0,
+        255.0,
+        441.0
+      ],
+      [
+        220.0,
+        169.0,
+        257.0,
+        265.0
+      ],
+      [
+        277.0,
+        409.0,
+        400.0,
+        445.0
+      ],
+      [
+        293.0,
+        330.0,
+        323.0,
+        410.0
+      ],
+      [
+        306.0,
+        182.0,
+        346.0,
+        268.0
+      ]
+    ],
+    "target": 1,
+    "classes": [
+      [
+        "rectangular box"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "toothpaste box"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "body lotion"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:6717",
+    "image_id": "train:0001351",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001351.png",
+    "pixel_sha256": "ebb40e865cc287afa5495384e50abe96203cca28f5cae6f6147de0a88527de76",
+    "scene": "shelf",
+    "text": "I would like to pick up the coca cola can on the middle shelf",
+    "boxes": [
+      [
+        148.0,
+        380.0,
+        199.0,
+        477.0
+      ],
+      [
+        218.0,
+        375.0,
+        271.0,
+        468.0
+      ],
+      [
+        229.0,
+        205.0,
+        264.0,
+        284.0
+      ],
+      [
+        340.0,
+        191.0,
+        382.0,
+        255.0
+      ],
+      [
+        424.0,
+        324.0,
+        531.0,
+        390.0
+      ]
+    ],
+    "target": 3,
+    "classes": [
+      [
+        "bottled facial cleanser"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "book"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:7429",
+    "image_id": "train:0001494",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001494.png",
+    "pixel_sha256": "9b200ac0db1bd8e58038ce263849b7b086d334840d898e26efe56e72c38c2350",
+    "scene": "shelf",
+    "text": "I would like to get the giraffe model at the bottom",
+    "boxes": [
+      [
+        82.0,
+        349.0,
+        134.0,
+        429.0
+      ],
+      [
+        161.0,
+        322.0,
+        224.0,
+        419.0
+      ],
+      [
+        183.0,
+        158.0,
+        227.0,
+        243.0
+      ],
+      [
+        245.0,
+        101.0,
+        289.0,
+        242.0
+      ],
+      [
+        326.0,
+        216.0,
+        400.0,
+        246.0
+      ]
+    ],
+    "target": 1,
+    "classes": [
+      [
+        "yogurt"
+      ],
+      [
+        "giraffe"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "pill box"
+      ],
+      [
+        "facial cleanser"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:6224",
+    "image_id": "train:0001253",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001253.png",
+    "pixel_sha256": "e2e8aa46eddca18df8936a646e1a09e178feb683650900760231d24c83dd744c",
+    "scene": "shelf",
+    "text": "I need to pick up the baking soda toothpaste in a small conical bottle on the middle shelf",
+    "boxes": [
+      [
+        169.0,
+        347.0,
+        210.0,
+        431.0
+      ],
+      [
+        274.0,
+        328.0,
+        331.0,
+        448.0
+      ],
+      [
+        299.0,
+        186.0,
+        334.0,
+        260.0
+      ],
+      [
+        367.0,
+        163.0,
+        411.0,
+        262.0
+      ],
+      [
+        413.0,
+        375.0,
+        446.0,
+        431.0
+      ]
+    ],
+    "target": 2,
+    "classes": [
+      [
+        "juice"
+      ],
+      [
+        "book"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "square box"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:9344",
+    "image_id": "train:0001877",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001877.png",
+    "pixel_sha256": "373345972f712c48bfda197a7d6eec35f198df21b9ddbab3cc0425959445b676",
+    "scene": "shelf",
+    "text": "would you please bring me the shampoo in a cylindrical bottle on the middle shelf",
+    "boxes": [
+      [
+        249.0,
+        332.0,
+        268.0,
+        372.0
+      ],
+      [
+        292.0,
+        308.0,
+        319.0,
+        375.0
+      ],
+      [
+        313.0,
+        264.0,
+        370.0,
+        279.0
+      ],
+      [
+        339.0,
+        163.0,
+        356.0,
+        194.0
+      ],
+      [
+        346.0,
+        337.0,
+        367.0,
+        378.0
+      ]
+    ],
+    "target": 2,
+    "classes": [
+      [
+        "vitamin bottle"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "vitamin bottle"
+      ],
+      [
+        "vitamin bottle"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:3920",
+    "image_id": "train:0000792",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0000792.png",
+    "pixel_sha256": "cc360e7b0f93b78522b2e4c81170289613f516542ceb424a8ddbc92a91fde623",
+    "scene": "shelf",
+    "text": "bring me the shampoo on the top shelf",
+    "boxes": [
+      [
+        145.0,
+        195.0,
+        191.0,
+        293.0
+      ],
+      [
+        154.0,
+        44.0,
+        197.0,
+        139.0
+      ],
+      [
+        223.0,
+        411.0,
+        263.0,
+        479.0
+      ],
+      [
+        239.0,
+        179.0,
+        289.0,
+        283.0
+      ],
+      [
+        253.0,
+        25.0,
+        299.0,
+        135.0
+      ]
+    ],
+    "target": 4,
+    "classes": [
+      [
+        "rectangular box"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "pill box"
+      ],
+      [
+        "book"
+      ],
+      [
+        "shampoo"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:5038",
+    "image_id": "train:0001016",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001016.png",
+    "pixel_sha256": "4f1ad158e01a36cce6cb4519d3016fa2e8fad7116e9877a4d8454d79be6c08f8",
+    "scene": "shelf",
+    "text": "I need to get the mouthwash in a white and green bottle on the middle shelf",
+    "boxes": [
+      [
+        95.0,
+        370.0,
+        127.0,
+        456.0
+      ],
+      [
+        148.0,
+        427.0,
+        272.0,
+        465.0
+      ],
+      [
+        172.0,
+        194.0,
+        211.0,
+        288.0
+      ],
+      [
+        198.0,
+        366.0,
+        236.0,
+        430.0
+      ],
+      [
+        264.0,
+        247.0,
+        362.0,
+        291.0
+      ]
+    ],
+    "target": 4,
+    "classes": [
+      [
+        "facial cleanser"
+      ],
+      [
+        "toothpaste box"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "mouthwash"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:5417",
+    "image_id": "train:0001091",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001091.png",
+    "pixel_sha256": "f7611b2e71c497f0064949fd4a69300ad65c2bff2e96bf9aadf9bf5bc9440047",
+    "scene": "shelf",
+    "text": "I want to pick up the press type facial wash with a black handy pump on the middle shelf",
+    "boxes": [
+      [
+        285.0,
+        367.0,
+        340.0,
+        472.0
+      ],
+      [
+        296.0,
+        168.0,
+        346.0,
+        277.0
+      ],
+      [
+        379.0,
+        163.0,
+        430.0,
+        265.0
+      ],
+      [
+        459.0,
+        346.0,
+        494.0,
+        455.0
+      ],
+      [
+        466.0,
+        158.0,
+        520.0,
+        253.0
+      ]
+    ],
+    "target": 4,
+    "classes": [
+      [
+        "body lotion"
+      ],
+      [
+        "mouthwash"
+      ],
+      [
+        "facial wash"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "facial wash"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:4903",
+    "image_id": "train:0000989",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0000989.png",
+    "pixel_sha256": "873107f79bec7d6d6fb1f4b8d2a39cc124e98a080e3b2eac0c235db863db549f",
+    "scene": "shelf",
+    "text": "give me the mouthwash in a white and green bottle at the bottom",
+    "boxes": [
+      [
+        379.0,
+        336.0,
+        428.0,
+        436.0
+      ],
+      [
+        391.0,
+        192.0,
+        440.0,
+        278.0
+      ],
+      [
+        448.0,
+        435.0,
+        527.0,
+        480
+      ],
+      [
+        455.0,
+        73.0,
+        548.0,
+        113.0
+      ],
+      [
+        488.0,
+        239.0,
+        587.0,
+        273.0
+      ]
+    ],
+    "target": 0,
+    "classes": [
+      [
+        "mouthwash"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "toothpaste box"
+      ],
+      [
+        "facial cleanser"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:5556",
+    "image_id": "train:0001119",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001119.png",
+    "pixel_sha256": "6e84cd4e7e993bb31f52d448619d5e4875d5f4130240842c020f1c6a44ade44e",
+    "scene": "shelf",
+    "text": "could you pass me the JVR facial cleanser with a white handy pump on the middle shelf",
+    "boxes": [
+      [
+        236.0,
+        249.0,
+        274.0,
+        333.0
+      ],
+      [
+        267.0,
+        369.0,
+        304.0,
+        454.0
+      ],
+      [
+        318.0,
+        111.0,
+        358.0,
+        195.0
+      ],
+      [
+        362.0,
+        406.0,
+        397.0,
+        480
+      ],
+      [
+        381.0,
+        253.0,
+        420.0,
+        334.0
+      ]
+    ],
+    "target": 0,
+    "classes": [
+      [
+        "facial wash"
+      ],
+      [
+        "mouthwash"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "facial wash"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:6937",
+    "image_id": "train:0001395",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001395.png",
+    "pixel_sha256": "dff7543b43f758ed3b8cd81fd02377e2c8ce7f0ea46a9a31d1709c4aa958e98b",
+    "scene": "shelf",
+    "text": "could you please fetch me the canned coca cola on the middle shelf",
+    "boxes": [
+      [
+        251.0,
+        359.0,
+        291.0,
+        430.0
+      ],
+      [
+        286.0,
+        170.0,
+        316.0,
+        260.0
+      ],
+      [
+        305.0,
+        364.0,
+        348.0,
+        444.0
+      ],
+      [
+        361.0,
+        193.0,
+        401.0,
+        261.0
+      ],
+      [
+        431.0,
+        212.0,
+        466.0,
+        263.0
+      ]
+    ],
+    "target": 3,
+    "classes": [
+      [
+        "yogurt"
+      ],
+      [
+        "bottled facial cleanser"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "cola"
+      ],
+      [
+        "yogurt"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:8444",
+    "image_id": "train:0001697",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001697.png",
+    "pixel_sha256": "3281adcd51871a1708f672ea675280dbf9acd495ae7e21a5d2ab1ec53804a9a6",
+    "scene": "shelf",
+    "text": "will you please fetch me the green and black bottled baking soda toothpaste on the top shelf near the left",
+    "boxes": [
+      [
+        393.0,
+        302.0,
+        414.0,
+        358.0
+      ],
+      [
+        399.0,
+        119.0,
+        423.0,
+        174.0
+      ],
+      [
+        441.0,
+        126.0,
+        462.0,
+        171.0
+      ],
+      [
+        451.0,
+        204.0,
+        467.0,
+        258.0
+      ],
+      [
+        522.0,
+        298.0,
+        548.0,
+        353.0
+      ]
+    ],
+    "target": 1,
+    "classes": [
+      [
+        "bottled facial cleanser"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "body lotion"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:6110",
+    "image_id": "train:0001230",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001230.png",
+    "pixel_sha256": "b3cf589253569ddc1a4f62788681dc67ce77e44d72abd3a930d3067f5e32cefc",
+    "scene": "shelf",
+    "text": "I hope to grab the laundry detergent for baby on the middle shelf",
+    "boxes": [
+      [
+        296.0,
+        354.0,
+        347.0,
+        455.0
+      ],
+      [
+        343.0,
+        0,
+        395.0,
+        88.0
+      ],
+      [
+        409.0,
+        116.0,
+        474.0,
+        246.0
+      ],
+      [
+        430.0,
+        0,
+        465.0,
+        80.0
+      ],
+      [
+        463.0,
+        312.0,
+        508.0,
+        423.0
+      ]
+    ],
+    "target": 2,
+    "classes": [
+      [
+        "facial wash"
+      ],
+      [
+        "facial wash"
+      ],
+      [
+        "detergent"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "toothpaste"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:6011",
+    "image_id": "train:0001210",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001210.png",
+    "pixel_sha256": "ffd121b8b5fe347770fff74a4551359710aa37719115ceb7b2d43cefbf76c801",
+    "scene": "shelf",
+    "text": "could you find the press type JVR facial wash at the bottom",
+    "boxes": [
+      [
+        151.0,
+        423.0,
+        211.0,
+        480
+      ],
+      [
+        248.0,
+        350.0,
+        306.0,
+        480
+      ],
+      [
+        295.0,
+        207.0,
+        340.0,
+        298.0
+      ],
+      [
+        341.0,
+        411.0,
+        439.0,
+        458.0
+      ],
+      [
+        375.0,
+        219.0,
+        399.0,
+        301.0
+      ]
+    ],
+    "target": 1,
+    "classes": [
+      [
+        "detergent"
+      ],
+      [
+        "facial wash"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "facial wash"
+      ],
+      [
+        "toothpaste"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:8865",
+    "image_id": "train:0001781",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001781.png",
+    "pixel_sha256": "b7d6803b05cb5b1eaddb67c02bb27fda434dd659d2c800d3ace219e879506ab6",
+    "scene": "shelf",
+    "text": "I need the pink bottled baking soda toothpaste with a white handy pump at the top",
+    "boxes": [
+      [
+        298.0,
+        323.0,
+        319.0,
+        375.0
+      ],
+      [
+        389.0,
+        162.0,
+        401.0,
+        208.0
+      ],
+      [
+        413.0,
+        258.0,
+        430.0,
+        290.0
+      ],
+      [
+        444.0,
+        336.0,
+        464.0,
+        395.0
+      ],
+      [
+        455.0,
+        253.0,
+        473.0,
+        292.0
+      ]
+    ],
+    "target": 1,
+    "classes": [
+      [
+        "toothpaste"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "vitamin bottle"
+      ],
+      [
+        "bottled facial cleanser"
+      ],
+      [
+        "vitamin bottle"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:7569",
+    "image_id": "train:0001522",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001522.png",
+    "pixel_sha256": "82ab832282002c6e622b970e72d7fdb22a68d0acd88f45c4df3e0f6d7886c00e",
+    "scene": "shelf",
+    "text": "will you please give me the giraffe on the bottom shelf",
+    "boxes": [
+      [
+        193.0,
+        391.0,
+        231.0,
+        480
+      ],
+      [
+        252.0,
+        241.0,
+        325.0,
+        288.0
+      ],
+      [
+        349.0,
+        167.0,
+        406.0,
+        255.0
+      ],
+      [
+        363.0,
+        374.0,
+        428.0,
+        453.0
+      ],
+      [
+        448.0,
+        157.0,
+        504.0,
+        235.0
+      ]
+    ],
+    "target": 0,
+    "classes": [
+      [
+        "giraffe"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "pill box"
+      ],
+      [
+        "yogurt"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:6206",
+    "image_id": "train:0001249",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001249.png",
+    "pixel_sha256": "a5d8508d2fe404b6bc0f353f0bb9ef2f65b5b902715e67ba45b16fcaaa9bbfd9",
+    "scene": "shelf",
+    "text": "could you please fetch me the thick book on the bottom shelf",
+    "boxes": [
+      [
+        67.0,
+        366.0,
+        116.0,
+        457.0
+      ],
+      [
+        183.0,
+        181.0,
+        224.0,
+        258.0
+      ],
+      [
+        189.0,
+        318.0,
+        250.0,
+        439.0
+      ],
+      [
+        261.0,
+        155.0,
+        300.0,
+        252.0
+      ],
+      [
+        312.0,
+        343.0,
+        356.0,
+        391.0
+      ]
+    ],
+    "target": 2,
+    "classes": [
+      [
+        "juice"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "book"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "square box"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:8353",
+    "image_id": "train:0001679",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001679.png",
+    "pixel_sha256": "85cea2dfaac1a26aa04f192eda20912eac98400caaabf42cd05c819b30c07b88",
+    "scene": "shelf",
+    "text": "would you please bring me the facial cleanser in a white cylindrical bottle at the bottom",
+    "boxes": [
+      [
+        299.0,
+        318.0,
+        313.0,
+        372.0
+      ],
+      [
+        318.0,
+        146.0,
+        341.0,
+        192.0
+      ],
+      [
+        360.0,
+        138.0,
+        383.0,
+        192.0
+      ],
+      [
+        386.0,
+        227.0,
+        409.0,
+        276.0
+      ],
+      [
+        420.0,
+        320.0,
+        439.0,
+        374.0
+      ]
+    ],
+    "target": 4,
+    "classes": [
+      [
+        "body lotion"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "toothpaste"
+      ],
+      [
+        "body lotion"
+      ],
+      [
+        "bottled facial cleanser"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:5136",
+    "image_id": "train:0001035",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001035.png",
+    "pixel_sha256": "eeedc9fa734da459ffdbdce3a4d3a09abd10c1b8eab99c694d4b58d2e7c14129",
+    "scene": "shelf",
+    "text": "would you please bring me the white conical bottled shampoo at the bottom",
+    "boxes": [
+      [
+        303.0,
+        181.0,
+        335.0,
+        279.0
+      ],
+      [
+        337.0,
+        324.0,
+        363.0,
+        423.0
+      ],
+      [
+        368.0,
+        327.0,
+        415.0,
+        441.0
+      ],
+      [
+        390.0,
+        417.0,
+        448.0,
+        480
+      ],
+      [
+        425.0,
+        172.0,
+        475.0,
+        258.0
+      ]
+    ],
+    "target": 2,
+    "classes": [
+      [
+        "mouthwash"
+      ],
+      [
+        "toothpaste box"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "facial cleanser"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:5271",
+    "image_id": "train:0001062",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001062.png",
+    "pixel_sha256": "e1d2b9e70fb3111ee387cc9ca68d56beba7285701b04be734da1c3474da09326",
+    "scene": "shelf",
+    "text": "please hand me the laundry detergent for baby on the middle shelf",
+    "boxes": [
+      [
+        259.0,
+        344.0,
+        307.0,
+        422.0
+      ],
+      [
+        280.0,
+        153.0,
+        327.0,
+        268.0
+      ],
+      [
+        366.0,
+        59.0,
+        422.0,
+        101.0
+      ],
+      [
+        385.0,
+        163.0,
+        421.0,
+        243.0
+      ],
+      [
+        389.0,
+        366.0,
+        464.0,
+        423.0
+      ]
+    ],
+    "target": 1,
+    "classes": [
+      [
+        "facial cleanser"
+      ],
+      [
+        "detergent"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "facial wash"
+      ],
+      [
+        "mouthwash"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:7224",
+    "image_id": "train:0001453",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001453.png",
+    "pixel_sha256": "e99d5c057f4feec32d09baa0f210569fd3ca6093423784648e1f01535ac26647",
+    "scene": "shelf",
+    "text": "will you please give me the large bottled shampoo on the bottom shelf",
+    "boxes": [
+      [
+        355.0,
+        193.0,
+        396.0,
+        261.0
+      ],
+      [
+        375.0,
+        334.0,
+        411.0,
+        444.0
+      ],
+      [
+        416.0,
+        174.0,
+        455.0,
+        251.0
+      ],
+      [
+        420.0,
+        367.0,
+        503.0,
+        452.0
+      ],
+      [
+        526.0,
+        371.0,
+        581.0,
+        445.0
+      ]
+    ],
+    "target": 1,
+    "classes": [
+      [
+        "cola"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "shampoo"
+      ],
+      [
+        "facial cleanser"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  },
+  {
+    "id": "train:7398",
+    "image_id": "train:0001488",
+    "official_split": "train",
+    "image_path": "final_dataset/train/image/0001488.png",
+    "pixel_sha256": "60ab63b9af5f846e5b069d253141f679da8e270390fd51f127414fd99843fe47",
+    "scene": "shelf",
+    "text": "find the large toothpaste box on the middle shelf",
+    "boxes": [
+      [
+        203.0,
+        388.0,
+        252.0,
+        470.0
+      ],
+      [
+        282.0,
+        363.0,
+        340.0,
+        477.0
+      ],
+      [
+        313.0,
+        198.0,
+        360.0,
+        287.0
+      ],
+      [
+        377.0,
+        143.0,
+        427.0,
+        288.0
+      ],
+      [
+        482.0,
+        270.0,
+        553.0,
+        302.0
+      ]
+    ],
+    "target": 3,
+    "classes": [
+      [
+        "yogurt"
+      ],
+      [
+        "giraffe"
+      ],
+      [
+        "facial cleanser"
+      ],
+      [
+        "toothpaste box"
+      ],
+      [
+        "facial cleanser"
+      ]
+    ],
+    "spatial": true,
+    "similar_objects": true
+  }
+]

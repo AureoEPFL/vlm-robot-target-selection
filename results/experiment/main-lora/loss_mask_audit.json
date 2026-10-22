@@ -1,0 +1,33 @@
+{
+  "supervised_text": [
+    " 4\n",
+    " 4\n",
+    " 1\n",
+    " 1\n",
+    " 3\n",
+    " 2\n",
+    " 3\n",
+    " 3\n"
+  ],
+  "supervised_token_counts": [
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4
+  ],
+  "total_token_counts": [
+    121,
+    124,
+    120,
+    121,
+    124,
+    126,
+    123,
+    123
+  ],
+  "prefix_image_padding_excluded": true
+}
